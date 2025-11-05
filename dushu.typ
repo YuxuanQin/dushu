@@ -178,4 +178,8 @@
 + 1957 年以后，他书中的 “不当言论” 被理所当然地清除了；
 + 西人称卢沟桥为 Marco Polo 桥，因马可波罗在游记中对卢沟桥称赞有加；
 
+== 11-05: #link("https://www.thetedkarchive.com/special/about-this-project")[The Ted K Archive]
+/ nomadic: who travel from place to place, eg. mongolian are nomadic people
+/ genocide: deliberate murder of a whole race, and you should definitely not conduct a genocide to mongolian
+/ assassin: a person assassinates others, eg. 李沛基
 
