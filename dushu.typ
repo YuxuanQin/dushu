@@ -14,7 +14,7 @@
 ))
 
 // Paragraph indent
-#set par(first-line-indent: 1em)
+#set par(first-line-indent: (amount: 2em, all: true))
 
 // Enable justification
 #set par(justify: true)
@@ -96,19 +96,22 @@
 
 == 十一：Vivienne Xiangwei Guo, _Negotiating A Chinese Federation_
 
-- headquarters
-- residence
-- disguise
-- humiliation
-- comprise
-- renounce
-- denounce
-- malignant
-- traitor
-- cement
-- perpetuate
+#columns[
+/ headquarters: 
+/ residence: 
+/ disguise: 
+/ humiliation: 
+/ comprise: 
+#colbreak()
+/ renounce: 
+/ denounce: 
+/ malignant: 
+/ traitor: 
+/ cement: 
+/ perpetuate: 
+]
 
-== 十二：#link("https://theanarchistlibrary.org/library/andrew-flood-towards-an-anarchist-history-of-the-chinese-revolution")[Andrew Flood, _Towards an anarchist history of the Chinese revolution_]
+== 十二：#link("https://theanarchistlibrary.org/library/andrew-flood-towards-an-anarchist-history-of-the-chinese-revolution")[Andrew Flood - _Towards an anarchist history of the Chinese revolution_]
 
 #columns[
 / encroach:
@@ -137,7 +140,7 @@
 / pervade: eg. smell of dishes pervade in the room
 / disciple: 门徒、弟子
 
-== 十四：#link("https://theanarchistlibrary.org/library/andrew-flood-towards-an-anarchist-history-of-the-chinese-revolution")[Andrew Flood, _Towards an anarchist history of the Chinese revolution_]
+== 十四：#link("https://theanarchistlibrary.org/library/andrew-flood-towards-an-anarchist-history-of-the-chinese-revolution")[Andrew Flood - _Towards an anarchist history of the Chinese revolution_]
 
 #columns[
 / emancipate: eg. emancipation of women
@@ -241,3 +244,39 @@ $ |X| tilde.equiv M, $
 / anomaly: a-nomal, different from normal
 / staunch: sounds like "stonch", steady, eg. japs are all staunch soldiers of 裕仁
 
+== 立冬：#link("https://theanarchistlibrary.org/library/leslie-h-chen-chen-jiongming")[陈定炎 - _Chen Jiongming: Anarchism and the Federalist State_]
+/ legislator: the guy who make laws
+/ obscurity: the state of being unknown, noun of obscure, eg. 陈炯明 has sunk into obscurity because of his disagreement with 孙中山
+/ affinity: an intimate relation, eg. 陈炯明 had strong affinity with many anarchists
+/ patron: supporter, money giver
+/ acclaim: praise enthusiastcally
+/ coercive: such a measure is intended to force people to do something, eg. anarchists do not want a coercive society. Also verb *coerce*
+/ champion: also a verb, means support and defend
+/ commence: verb, means begin, eg. academic year in 中国 commences on Sep. 1th
+/ impeachment: 弹劾
+/ shroud: 寿衣, also phrase *shrouded in mystery*, means something is deliberately obscured
+/ contentious: marked by heated arguments or controversy 有争议的
+/ contend: debate, argue 辩称, eg. Goldman contended that political violence is nothing compared to wholesale violence
+/ doyen: 老资历！
+/ confide: tell a secret to others 吐露
+/ dislodge: sounds like "disl_a_ge", remove something, eg. dislodge the burden of someone
+/ solicit: ask somebody to give something to you, 请求给予, eg. 吴稚晖 solicited 陈炯明's support
+/ conciliate: to do so to a group, you end a disagreement between them 安抚, also *re-conciliation* 和解
+/ proclaim: formally make something known to the public, announce
+/ linger: 徘徊
+/ prevail: superior in strength and dominance 盛行, eg. we must eradicate those prevailing wrong thoughts
+/ courtesy: polite, politeness, eg. courtesy name $=$ 号 while name is just 名
+/ tenet: sounds like "te-nit", belief, doctrin of somebody
+/ infancy: 婴儿期
+/ fervent: enthusiastic 热忱的
+/ embark: start or go on board of a ship, eg. 陈炯明 embarked upon a fervent program in 广东
+/ precedent: an event happened before 先例, also *un-precedented* 史无前例的
+/ stern: serious and strict 严厉的, eg. a stern warning
+/ foster: 收养
+/ dissent: disagree, disagreement, eg. a dissenting voice
+/ vehement: 激动、猛烈的, eg. 陈独秀 mounted a vehement attack on the 联省自治
+/ seizure: noun of seize, eg. the seizure of territory
+
+陈炯明长子写的小文，但是主要记述了陈炯明执政广东期间做过的实事，并分析这些实事，得出陈炯明确实有无政府的思想。正文老生长谈且有失偏颇（只说了陈好的方面，其他如 616 事变完全没提及），精华全在参考文献！
+
+今天也终于知道了 Liang Bingxian 是谁，他就是梁冰弦！他在中国早期工人刊物《劳动者》（1920 年 10 月 - 1921 年 1 月）上发过几篇文章，见马克思主义文库 “参考图书 · 阶级斗争文献 > 中国早期工人刊物《劳动者》”，或直接访问#link("https://x.leninist.ru/chinese/reference-books/labor-1920/index.htm")[镜像站（leninist.ru）]。他还有一本由 “近代中国史料丛刊” 出版的《解放别录》存于世。另外，前广东省委党史研究室主任曾庆榴在香港中文大学期刊#link("https://www.cuhk.edu.hk/ics/21c/zh/issues/")[《二十一世紀》]上的文章#link("https://cuhk.edu.hk/ics/21c/media/articles/c125-201104050.pdf")[《無政府主義與廣州共産黨之源》]中提到了此人。
