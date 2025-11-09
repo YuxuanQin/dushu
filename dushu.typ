@@ -216,7 +216,7 @@
 山口守的这篇文章提供了更多信息，我尚不能完全消化，姑录于此：
 
 - 美国无政府主义的传奇人物爱玛 · 哥德曼（#link("https://wikimore.private.coffee/wiki/en/wiki/Emma_Goldman")[Emma Goldman]）；
-- 来华长住的美国记者、活动家艾格尼斯 · 史沫特莱（#link("https://wikimore.private.coffee/wiki/en/wiki/Agnes_Smedley")[Agnes Smedley]）：此人和爱玛 · 哥德曼有书信来往，但是最终决裂。她现在东北小住，后又去延安，1941 年因病回美国，仍然继续通过演讲、募捐等行动支持中国抗战。但因和共产党交往过密，始终被美国政府监视、迫害，最终在种种压力之下病倒，逝于 1950 年。1951 年，遵其遗愿，她的骨灰移交中国并葬于八宝山公墓。
+- 来华长住的美国记者、活动家艾格尼斯 · 史沫特莱（#link("https://wikimore.private.coffee/wiki/en/wiki/Agnes_Smedley")[Agnes Smedley]）：此人和爱玛 · 哥德曼有书信来往，但是最终决裂。她先在东北小住，后又去延安，1941 年因病回美国，仍然继续通过演讲、募捐等行动支持中国抗战。但因和共产党交往过密，始终被美国政府监视、迫害，最终在种种压力之下病倒，逝于 1950 年。1951 年，遵其遗愿，她的骨灰移交中国并葬于八宝山公墓。
 
 === 3. #link("https://web.stanford.edu/~cm5/tm.pdf")[Ciprian Manolescu - _Triangulation of Manifolds_]
 简要介绍了三角剖分（Triangulation）的概念以及相关猜想，总结如次：
@@ -280,3 +280,40 @@ $ |X| tilde.equiv M, $
 陈炯明长子写的小文，但是主要记述了陈炯明执政广东期间做过的实事，并分析这些实事，得出陈炯明确实有无政府的思想。正文老生长谈且有失偏颇（只说了陈好的方面，其他如 616 事变完全没提及），精华全在参考文献！
 
 今天也终于知道了 Liang Bingxian 是谁，他就是梁冰弦！他在中国早期工人刊物《劳动者》（1920 年 10 月 - 1921 年 1 月）上发过几篇文章，见马克思主义文库 “参考图书 · 阶级斗争文献 > 中国早期工人刊物《劳动者》”，或直接访问#link("https://x.leninist.ru/chinese/reference-books/labor-1920/index.htm")[镜像站（leninist.ru）]。他还有一本由 “近代中国史料丛刊” 出版的《解放别录》存于世。另外，前广东省委党史研究室主任曾庆榴在香港中文大学期刊#link("https://www.cuhk.edu.hk/ics/21c/zh/issues/")[《二十一世紀》]上的文章#link("https://cuhk.edu.hk/ics/21c/media/articles/c125-201104050.pdf")[《無政府主義與廣州共産黨之源》]中提到了此人。
+
+== 二十：电影、陈炯明、马育航
+=== 1. 陈涛《电影导论（第二版）》，中国人民大学出版社
+中秋前就借了这本书，直到今天才看完，这书还行，就是我对文化分析的兴趣不如历史，所以没啥可说的。
+
+在这本书中认识了《神女》的主演阮玲玉，此人是个奇女子，有空需要深究。
+
+=== 2. 段云章、沈晓敏、倪俊民编著《历有争议的陈炯明》，中山大学出版社
+早上看了部分，主要了解到：
+  - 616 事发前几天，身携巨款的廖仲恺被陈炯明拘于惠州石龙，史称 “石龙拘廖”，这是陈炯明的又一污点。廖仲恺身上的钱是作北伐军费只用，陈炯明显系为阻挠北伐拘廖。
+  - 邓仲元案，莫纪彭在其口述史中表达：邓铿不是陈炯明所杀，而是因邓铿越俎代庖严打毒品，招致商人忿恨，故被商人暗杀。另有观点认为是孙中山杀鸡儆猴，或是蒋介石因仕途所杀。
+
+读了一段后，开始探索图书馆，发现了一本宝藏：万仕国先生校注的《天义》报分类汇编（中国人大出版社）。书中给出了全部外国人名的本名、今译名；注释了大量专有名词，最关键的是并非影印，全部手打一遍，实在是无量功德！
+
+=== 3. #link("https://www.ncpssd.cn/Literature/secure/articleinfo?params=STJBUG9IWlo5cUJIdlFjcmJuczllWFNVbldQQmk0M0ZEeFlnUWd0TzJLa2RGK2V4OSsxT3FUcWpWMGRkSDk3UnJUSzJSdGJPLzhabkY1Z1VDWUNlZXlpekpodTFyNXlrL3FZcHZDQ05mNE5XczlhYzFyR3VIQ0tnNjVSb2NBbnc&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IumZiOeCr%252BaYjuW5tuacquS4vuWFteWPm%252BWPmOOAgeWbtOaUu%252BaAu%252Be7n%252BW6nCIgT1IgSUtQWVRFPSLpmYjngq%252FmmI7lubbmnKrkuL7lhbXlj5vlj5jjgIHlm7TmlLvmgLvnu5%252FlupwiICBPUiBJS1NUPSLpmYjngq%252FmmI7lubbmnKrkuL7lhbXlj5vlj5jjgIHlm7TmlLvmgLvnu5%252FlupwiIE9SIElLRVQ9IumZiOeCr%252BaYjuW5tuacquS4vuWFteWPm%252BWPmOOAgeWbtOaUu%252BaAu%252Be7n%252BW6nCIgT1IgSUtTRT0i6ZmI54Kv5piO5bm25pyq5Li%252B5YW15Y%252Bb5Y%252BY44CB5Zu05pS75oC757uf5bqcIik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i6ZmI54Kv5piO5bm25pyq5Li%252B5YW15Y%252Bb5Y%252BY44CB5Zu05pS75oC757uf5bqcIg%253D%253D%2526nav%253D0%2526ajaxKeys%253D6ZmI54Kv5piO5bm25pyq5Li%252B5YW15Y%252Bb5Y%252BY44CB5Zu05pS75oC757uf5bqc")[陶季邑《陈炯明并未举兵叛变、围攻总统府》]
+惊世骇俗的标题！主要论点：
+
+  - 616 前，陈炯明在惠州，不掌握兵权；
+  - 洪兆麟在 6 月 13 日向叶举发送密电谋反，陶季邑认为这是因为孙中山此前口出狂言，要武力驱逐陈家军所致；
+  - 616 事变以后几天，在陈家军占绝对优势的情况下，陈炯明亲自来粤道歉、乞求和解；
+  - 陈炯明致亲信白逾桓、秘书陈猛荪的信以及私人谈话中均透露出：当时自己没有兵权，管不住叶举、洪兆麟等人；
+
+在《历有争议的陈炯明》中，段云章等人还引用了陶季邑的更多论文，估计都是大同小异。
+
+=== 4. #link("https://www.ncpssd.cn/Literature/secure/articleinfo?params=VVdNS1Y4NXZtNDRqWFR6NGd6TG5BZms0cG1LZThXNW1jemtrM0ZPT0VRQWQxZG5xK1FlRklLNnJGNnNmcTgycjVIS1F4NUpQSUxZNTdWNWVlWVVWVlpNeHZ1M2Z4dmpFbUxtYjBFVGJaZTJrMWg2M3lBb1lIeUlmRWtSaURsL2M&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IumprOiCsuiIqiIgT1IgSUtQWVRFPSLpqazogrLoiKoiICBPUiBJS1NUPSLpqazogrLoiKoiIE9SIElLRVQ9IumprOiCsuiIqiIgT1IgSUtTRT0i6ams6IKy6IiqIik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i6ams6IKy6IiqIg%253D%253D%2526nav%253D0%2526ajaxKeys%253D6ams6IKy6Iiq")[石瑶《1930 年代初期中国致公团体内的派别及政治趋向》]
+在社科文献中心上搜索 “马育航”，这是唯一一份能搜到的文献，而且也不是以他为中心的。
+
+不过，仍然了解到陈炯明走后致公党的情况：香港部以马育航为核心，有联合蒋介石的倾向；北美部暂无核心（司徒美堂可能算？），坚决反蒋，有拉拢同样反蒋的洪门人士蔡廷锴的倾向。不过这两个分部的目标都未达成。
+
+蔡廷锴是个看得清局势的人：驱桂、讨陈、抗日、反蒋，每一步都走对了。就算是七七事变以前，蔡廷锴本人也坚决反蒋，甚至在福建和共产党一起组建了 “中华共和国人民政府”！
+
+=== 5. 马思琚《回忆父亲马育航和陈炯明的生活轶事》，《各界》2024 年 第 8 期
+用吉大图书馆搜索 “马育航”，可找到这篇文章，很短，只有两页，因为马思琚并不是专业作家，她是音乐家，而且年事已高。
+
+不过，这份文章毕竟还是有些信息，譬如在未决裂之前，陈炯明每个月要给孙中山一千元生活费，这件事就交给马育航，结果弄得马家很穷困，吃鱼都只买鱼骨。不过，她也提到，马育航最后 “靠朋友介绍”，干了一份月俸六百的工作……
+
+她回忆，陈炯明下野去香港后，生活潦倒，陈母卧病在床，陈妻双目失明，他们的住所也十分狭小。
