@@ -7,6 +7,14 @@
 // 地区
 #set text(lang: "zh", region: "cn")
 
+// 引用
+#set quote(block: true)
+
+#show quote: block.with(  // code block
+  fill: luma(220),  // background color
+  inset: 9pt
+)  // distance between text and the edge
+
 // 字体
 #set text(font: (
   (name: "libertinus serif"),
@@ -54,7 +62,6 @@
 = 九月
 == 初八：#link("https://en.wikipedia.org/wiki/Golok_people")[Golok people]
 
-#columns[
 / ferocious:
 / renown:
 / haven:
@@ -72,7 +79,6 @@
 / dispatch:
 / livestock:
 / draconian: from Draco, a official in acient Greek that laid down a code of laws
-#colbreak()
 / exterminate:
 / slaughter:
 / convoke:
@@ -92,28 +98,24 @@
 / amnesty:
 / comply: obey
 / resent: eg. she resents her mother for being so tough on her
-]
+
 
 == 十一：Vivienne Xiangwei Guo, _Negotiating A Chinese Federation_
 
-#columns[
 / headquarters: 
 / residence: 
 / disguise: 
 / humiliation: 
 / comprise: 
-#colbreak()
 / renounce: 
 / denounce: 
 / malignant: 
 / traitor: 
 / cement: 
 / perpetuate: 
-]
 
 == 十二：#link("https://theanarchistlibrary.org/library/andrew-flood-towards-an-anarchist-history-of-the-chinese-revolution")[Andrew Flood - _Towards an anarchist history of the Chinese revolution_]
 
-#columns[
 / encroach:
 / court:
 / disparage:
@@ -124,7 +126,6 @@
 / cadre: 干部
 / exile: sounds like ek-zail, eg. 孙中山 lived in exile in Japan after 护国战争
 / prudent: sensible and careful, not rash
-#colbreak()
 / fanatic:
 / defect: fault, cons, also means 背叛
 / obfuscate: 使混淆
@@ -134,7 +135,7 @@
 / garner: $approx$ "gather", but mostly used to refer "gather evidence" or "gather votes"
 / secession: eg. the Ukraine's secession from the USSR
 / discrimiate: 歧视，区分, eg. I discrimiate japs
-]
+
 == 十三：Vivienne Xiangwei Guo, _Negotiating A Chinese Federation_
 
 / pervade: eg. smell of dishes pervade in the room
@@ -142,7 +143,6 @@
 
 == 十四：#link("https://theanarchistlibrary.org/library/andrew-flood-towards-an-anarchist-history-of-the-chinese-revolution")[Andrew Flood - _Towards an anarchist history of the Chinese revolution_]
 
-#columns[
 / emancipate: eg. emancipation of women
 / concession: 妥协，特权 eg. the Paris "Peace" Conference awarded the German concessions in Shandong to japs
 / ruth: compassion, pity
@@ -164,14 +164,13 @@
 / forlorn: eg. the poor guy went to a city in the forlorn hope for being rich
 / retreat: to withdraw from a position, eg. CCP retreated from cities to rural areas
 / dampen: to reduce the intensity of something, eg. dampen down class struggle
-#colbreak()
 / blunt: not sharp (for knives), or straightforward, eg. "to put it bluntly" $=$ "to be frank"
 / swell: 膨胀, eg. population swelled
 / inflation: 通货膨胀
 / conscript: a person who join the army officially 应征入伍的士兵
 / prestige: reputation, eg. Oxford has a university of very high prestige
 / inception: the start of something 滥觞
-]
+
 很简要的历史，但与其说是无政府主义史，不如说是中国革命通史，本文从中间开始就逐渐和无政府主义者没啥关系了，中心逐渐移向红色。另外此文的推荐书目也不赖，让我发现了 Arif Dirlik 这个人。
 
 == 十五：#link("https://struggle.ws/andrew/people/BaJin.html?story_id=1526")[Joe Black - _Chinese anarchist Ba Jin dies age 101 in Shanghai_]
@@ -317,3 +316,59 @@ $ |X| tilde.equiv M, $
 不过，这份文章毕竟还是有些信息，譬如在未决裂之前，陈炯明每个月要给孙中山一千元生活费，这件事就交给马育航，结果弄得马家很穷困，吃鱼都只买鱼骨。不过，她也提到，马育航最后 “靠朋友介绍”，干了一份月俸六百的工作……
 
 她回忆，陈炯明下野去香港后，生活潦倒，陈母卧病在床，陈妻双目失明，他们的住所也十分狭小。
+
+== 廿一：#link("https://libcom.org/article/mochizuki-katsura-1887-1975")[Nick Health - 望月桂]
+介绍了日本无政府主义者、漫画家望月桂的生平。此人应该不太出名，网上几乎只有日文资料。
+
+在 anna's archive 中搜索此人，会发现他和大杉荣合著过一本名为《漫文漫画》的书，可惜都是日文。
+
+== 廿二：爱玛 · 哥德曼、彭家珍
+=== 1. #link("https://wikimore.private.coffee/wiki/en/wiki/Emma_Goldman")[Emma Goldman]
+/ detractor: a detractor of someone denounces the person
+/ suffrage: right of people to vote for a goverment
+/ kindle: 点燃, eg. kindle one's enthusiasm for history
+/ devastate: distroy
+/ ensue: if something ensues, it happened immediately after another thing, eg. After quarrel, hardship ensues
+/ traumatized: injured 痛苦的, eg. someone was traumatized by an experience
+/ molest: sexually harass, eg. pervert like molesting women
+/ assortment: a group of similiar things, eg. an assortment of jobs
+/ turmoil: disorder, eg. political turmoil in 20th century
+/ enthrall: 使着迷, eg. Чернишевски's work enthralled Emma Goldman
+/ ecstatic: if you are ecstatic, you are fucking happy
+
+=== 2. 王静《北洋简史》
+1911 年年末，清廷已临近崩溃，各种皇亲国戚也是作鸟兽散，但良弼却是坚定的主战派，甚至扬言要和南方军政府决一死战。
+
+此时，彭家珍烈士决定舍身炸良弼，1912 年 2 月 26 日，彭家珍烈士做好了准备，在路上抛出炸弹，良弼被炸断一条腿，两天后不治身亡；而彭家珍烈士当场死亡。悲夫！为了杀一虫豸，却损失一英雄！彭家珍是真正的烈士！
+
+== 廿三：亚洲已崛起、护法初期粤桂双方的暗中角力
+=== 1. #link("https://www.icm.gov.mo/rc/viewer/pdfViewerParts/40045/2401")[Arif Dirlik - _Asia is Rising_]
+/ gracious: kind, polite, pleasant, eg. a gracious invitation
+/ diffuse: 发散, eg. technology diffused
+/ thrall: usually "in thrall of something", means be controlled by something
+/ apprehension: 忧虑
+/ prognostication: 预言
+/ impending: an impending event is going to happen very soon
+/ hegemony: the countrol of some fucking powerful things 霸权, eg. the US hegemony
+/ distortion: a twisted and unreal opinion 曲解
+
+放弃了，有点无聊，词又太高深，读不下去。
+
+顺便一提：这篇文章发表在澳门大学期刊《文化雜誌》外文版 _Revista de Cultura_ 上，此杂志也有汉文版，但是找了一下同年汉文版，并无翻译（可能在次年汉文版，没找）。
+
+=== 2. #link("https://www.ncpssd.cn/Literature/secure/articleinfo?params=K3Y1anB6ZVJPQzRSYXRYZmdjNVl0TEdrV3ltdHRVUWJnNEpnTWZiWFJTSnZVNWgzbnV3NUVaSXRHUUNuYVVGSlBrWTg1M2o4N3RJcExYaHBXNHVyWnFGd1E5ZHdqMTNUYStDZUdRK0JubjF1WUplQytadk82WFY1TEgyeE1xTmY")[陈默《另一个粤军故事：护法运动时期粤军对桂系的三次反抗》]
+很多细节，作者文风也很有意思，有种听人讲故事的感觉。本文主要内容，已经充分体现于摘要中，姑录于此（为体现要点，制成列表，内容无损）：
+
+#quote[
+护法运动前后孙中山、陈炯明创建的援闽粤军对桂系展开了激烈的反抗，三次挫败桂系的企图并使其陷入尴尬境地。
+
+- 1917 年秋，粤军借海军南下的机会，暂以海军陆战队的名义保住队伍，迫使桂系广东督军署放弃了吞并粤军的计划。
+- 1918 年春，桂系广东督军莫荣新试图以断饷钳制粤军发展。粤军截留粤东盐税以充军饷，并迫令督军署发饷。
+- 1918 年秋，桂系宣布裁撤陈炯明的惠潮梅军务督办公署，粤军通过自身悲情形象的构建，动员省议会乃至国会议员为其斡旋与调停，逼迫桂系在相当程度上保留了粤军的既得利益。
+
+护法运动时期粤军对桂系的三次反抗说明：以武力相抗的姿态足以撼动粤桂双方的力量对比，南方内部的中间地带则为粤军提供了缓冲和资源，善于制造、寻找和运用政治契机更是粤军的制胜法宝。
+]
+
+作者在文末问道：“若此次惠潮梅军务督办公署被裁撤并未对粤军造成巨大创伤，粤军后来发动猛烈反击（即粤桂战争）的道义又何在呢？”，我认为似没有必要，因为我目前所看到的资料描绘的情况乃是桂系先挑动事端，而虽然孙中山极力鼓动，陈炯明本人甚至一开始都不愿意讨桂。
+
+当然，这只是我目前看到的材料。
