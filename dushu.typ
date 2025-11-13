@@ -72,7 +72,7 @@
 / preach:
 / sermon:
 / allegiance:
-/ conceal:
+/ conceal: to conceal something is to hide something carefully
 / ambush:
 / retaliate:
 / allegations:
@@ -372,3 +372,72 @@ $ |X| tilde.equiv M, $
 作者在文末问道：“若此次惠潮梅军务督办公署被裁撤并未对粤军造成巨大创伤，粤军后来发动猛烈反击（即粤桂战争）的道义又何在呢？”，我认为似没有必要，因为我目前所看到的资料描绘的情况乃是桂系先挑动事端，而虽然孙中山极力鼓动，陈炯明本人甚至一开始都不愿意讨桂。
 
 当然，这只是我目前看到的材料。
+
+== 廿四：猫萨埵、单纯集
+=== 1. #link("https://nekogirlmagazine.com/nekogirlmagazine/neko_girl_magazine_m_1.pdf")[Nekogirl Magazine ISSUE 1 - _READY, WAITING, ALWAYS WILLING_]
+
+/ cowardly: easily frightened 胆小的, also noun cowadice
+/ mundane: ordinary and dull
+/ squalor: 脏乱环境, eg. the era of mundane squalor
+/ loom: if something looms you, it appears as a large and unclear shape in a frightening way 隐约逼近
+/ onimous: bad luck 不祥的
+/ evoke: To evoke a particular memory, idea, emotion, or response means to cause it to occur
+/ damp: wet, eg. rat person lives in damp corners of the world 😭
+/ stunt: 噱头
+/ manic: fervent
+/ yelp: yell out of pain
+/ sensuous: 给人快感的, eg. the sensuous perfumed water in the bath
+/ antagonism: 敌意、对立, eg. the antagonism of mind and body
+/ outlet: 直销店、思想感情的发泄口, eg. there is no outlets of our wretched perversions
+/ evade: If you evade something, you find a way of not doing something that you really ought to do, eg. evade an issue, evade paying taxes
+/ renewal: literally "re-newness" 更新、恢复, eg. renewal of diplomatic relations
+/ clandestine: secret, eg. a clandestine meeting
+/ indignity: an unworthy treatment, 侮辱
+/ monstrous: adj of monster, huge, frightening, ungod, eg. monstrous behaviour
+/ rupture: sounds like "rup-ture", severe injury in which an internal part of your body tears or bursts open 撕裂、破裂, 
+/ hap: luck, eg. hapless $=$ unlucky
+/ vest: 背心
+/ fragile: if something is fragile, it is weak and easily broken
+/ niche: sounds like "nish", 生态位
+/ despise: sounds like "des-baiz", if you despise something or someone, you dislike them and have a very low opinion of them, eg. I will never forgive him, and I despise him
+/ offspring: 子孙, eg. a proud offspring of the Golden Age
+
+我一开始以为它只是开玩笑……
+
+事实证明，我错了，这份杂志绝对不是那种休闲读物，其自称 “腐女-巴塔耶研究刊”，里面的内容也是过分专业了，大词满天飞，姑录两段（通义千问翻译）：
+
+#quote[
+当然，正因如此，死亡才确证了悲剧的色情性（eroticism of the tragic）。我们与庸俗的左或右其实相去不远——庸俗左翼的情欲潜能，蕴藏于徒劳废除当下秩序的悲剧性努力之中；庸俗右翼则寄生于徒劳抗拒变革的悲剧性挣扎之内。而我们的情欲潜能，却恰恰扎根于疯子无法被“改造”这一事实：她无法将自己的情欲过剩疏导进社会认可的渠道——诸如体育、程式化的性行为、警察暴力、反智主义、世俗化的宗教、垃圾食品。你能嗅到她身上的“失败”气息；而真正令你不安的念头是：“或许，她其实就喜欢这样。” 
+
+日本人并无亚伯拉罕传统对书写之逻各斯（λόγος ἐνδιάθετος，即‘内在之言’）的执念，因而更能将行动本身视作更高阶的辩证法——三岛由纪夫坚信自身自杀的必然性与必要性，这一信念，与日本变态文化（hentai）、粉红电影（pink film）、成人影片（JAV）所展现出的那种严苛而鲜活的感官强度同根同源；相比之下，美国色情片显得原始而粗糙。凡不可言说者，便以性交代之。 
+
+因此，作为《猫女郎杂志》（NEKO GIRL MAGAZINE），我们确证并颂扬这位“疯子”的情欲力量；我们激励她付诸行动——一支由千名训练有素、手握同人志与激浪饮料（Mountain Dew）的动漫变态组成的民兵部队，足以在一年内颠覆帝国及其金融机器。而我们对此翘首以盼——只因那场面，必将炽热无比。 
+]
+
+#quote[
+这本杂志令人震惊的一点在于：它在某些时刻呈现出一种毫不掩饰的“反政治”姿态——若可如此表述——并将当代网络文化与政治以一种错综复杂的方式交织在一起。多处行文读来仿佛是服了冰毒、连上Wi-Fi的让·热内（Jean Genet）：既是对那些痴迷于“梗（meme）如何塑造选举政治与市场经济”之人的公开挑衅，亦是一份献给数字时代之“恶”、欢愉与不道德的宣言书。
+
+它似乎正重新唤醒我最钟爱的一段已故鲍德里亚（Baudrillard）的论断：  
+> «马克思曾让某种神秘而迷人的东西漂浮于商品之上——即其令人不安的异质性……而马克思主义教条却将这一切碾得粉碎（马克思本人亦难辞其咎）。资本与商品的全部谜题，皆遭革命道德屠戮殆尽；可究竟何处——又可能在何处——存在一种‘革命的不道德’？»
+
+对我而言，这种既绝望又欢腾的“不道德主义”，在其创刊号中的一篇随笔里臻至高潮：那是一段绝妙的描写——相田诚（Aida Makoto）夹在他父亲的马克思著作书页之间自慰。整篇文章，乃至整期刊物，听来与其说是一曲献给“解放”（liberation）的颂歌——这个词如今要么发馊，要么甜腻得令人作呕——不如说是一曲献给“隐匿的反面”（Hidden Reverse）与“外部”（the Outside）的礼赞；一种对萨德式犯罪性（Sadeian criminality）及其所催生之共同体的、真正系统而审慎的欣赏。
+
+您是否认同这一描述？《猫女郎杂志》果真如此“邪恶”吗？  
+您的政治立场——或反政治立场——究竟为何？
+]
+
+真读不下去……
+
+=== 2. #link("https://arxiv.org/pdf/2411.18561")[JULIA E. BERGNER - _SIMPLICIAL SETS IN TOPOLOGY, CATEGORY THEORY, AND BEYOND_]
+今天听了 #link("https://www.bilibili.com/video/BV1wi4y1z7KT?p=11")[Anthony Bosman 先生的代数拓扑]，总算是对单纯同调（*simplicial*）和奇异同调（*singular*）的异同有了些理解，目前看起来：
+
+- 单纯同调：似乎只能处理有三角剖分的拓扑空间，因为单纯同调原则上只能考虑单纯复形（simplicial complex），并且 $C_i (X) = ZZ[Delta_i (X)]$，这里 $Delta_i (X)$ 表示 $X$ 中的全体真 $i$-单形，不会很多；
+- 奇异同调：能处理任意拓扑空间，但是很复杂，因为要考虑所有单形的化身，这是很多的，譬如 $C_1 (X)$ 本身的基数就已经超乎想象了（实际上等于 $X$ 本身的基数）；
+
+因此，对单纯集（又一次）发生了兴趣，同时发现了这篇好文，虽然说科普单纯集的文章已经很多了，但是作者自称（粗体为引者所加）：
+
+#quote[
+As such, there is a good deal of overlap with the introductory paper of Friedman [8]; some of the motivating ideas are also described more briefly by Dwyer [6, §3], *but here we incorporate more of the category-theoretic perspective on the subject*.
+]
+
+看起来不错。
