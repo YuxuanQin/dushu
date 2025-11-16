@@ -460,8 +460,21 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 
 + 《中国名校丛书 · 广东省广雅中学》
 
+== 廿六：#link("https://arxiv.org/pdf/2411.18561")[JULIA E. BERGNER - _SIMPLICIAL SETS IN TOPOLOGY, CATEGORY THEORY, AND BEYOND_]
+读了一半，酣畅淋漓，笔记俱在数学笔记中。
 
+== 廿七：#link("https://arxiv.org/pdf/2411.18561")[JULIA E. BERGNER - _SIMPLICIAL SETS IN TOPOLOGY, CATEGORY THEORY, AND BEYOND_]
+读“完了”，作为一篇综述，本论文很好地介绍了单纯集的渊源：
 
+- 普通的单纯复形（simplicial complex）没办法模拟乘积空间，因此升级为定向单纯复形（oriented simplicial complex）；
+- 普通的定向单纯复形没办法模拟商空间（这点待消化），因此升级为 $Delta$-集；
+- 为了让组合结构更好地模拟空间，必须容许退化单形的存在，因此升级为单纯集；
 
+文章中关于 Kan 复形及准范畴（quasi-category）的讨论尤有趣：
 
+- 如要求单纯集满足 inner horn-delta *unique* lifting property，则得到某个范畴的 nerve；
+- 如要求单纯集满足 *outer* horn-delta *unique* lifting property，则得到某个群胚的 nerve；
+- Kan 复形首先是一种单纯集，其满足 outer horn-delta lifting property；
+- 如果要求单纯集满足 *inner* horn-delta lifting property，则得到准范畴（quasi-category），别名*弱 Kan 复形*（weak Kan complex）；
 
+总结：单纯集是模拟空间的利器，许多在 $bold("Top")$ 中复杂的操作，到了 $bold("sSet")$ 中就简单很多，譬如 mapping space 和 mapping simplicial set 构造之间的难易差别。同时，各（代数）范畴中的单纯对象可以模拟具备代数操作的空间，譬如单纯群可以模拟拓扑群等等。
