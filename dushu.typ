@@ -2,10 +2,9 @@
 ///////////////////////////  Settings  ////////////////////////////
 ////////////////////////////////////////////////////////////////////
 #import "@preview/fletcher:0.5.3" as fletcher: diagram, node, edge
+#import "@preview/conjak:0.2.3"
 #show link: set text(red)
 
-// 地区
-#set text(lang: "zh", region: "cn")
 
 // 引用
 #set quote(block: true)
@@ -17,9 +16,9 @@
 
 // 字体
 #set text(font: (
-  (name: "libertinus serif"),
-  "Noto Serif CJK SC"
-))
+  (name: "libertinus serif", covers: "latin-in-cjk"), // 西文字体
+  "Noto Serif CJK SC" // 中文字体
+), lang: "zh", region: "cn")
 
 // Paragraph indent
 #set par(first-line-indent: (amount: 2em, all: true))
@@ -43,7 +42,7 @@
   columns: (1fr),
   align(center)[
 著者：秦宇轩 \
-最后编译于 #datetime.today().display() \
+最后编译于#conjak.cjk-date-format(datetime.today()) \
   ],
 )
 
@@ -53,11 +52,13 @@
 ////////////////////////  Table of Contents  //////////////////////
 ///////////////////////////////////////////////////////////////////
 #outline()
-#line(length: 100%)
+#pagebreak()
 
+= 前言
 这里记录了我的读过的文章以及不认识的单词😭。
 
 如是网络文章，则可点击红色标题直达。本文用农历纪日，以#link("https://pmo.cas.cn/xwdt2019/kpdt2019/202203/P020241223526694003756.pdf")[《日历资料》]为唯一标准。
+#pagebreak()
 
 = 九月
 == 初八：#link("https://en.wikipedia.org/wiki/Golok_people")[Golok people]
@@ -478,3 +479,85 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 - 如果要求单纯集满足 *inner* horn-delta lifting property，则得到准范畴（quasi-category），别名*弱 Kan 复形*（weak Kan complex）；
 
 总结：单纯集是模拟空间的利器，许多在 $bold("Top")$ 中复杂的操作，到了 $bold("sSet")$ 中就简单很多，譬如 mapping space 和 mapping simplicial set 构造之间的难易差别。同时，各（代数）范畴中的单纯对象可以模拟具备代数操作的空间，譬如单纯群可以模拟拓扑群等等。
+
+== 廿八：广东气象
+=== 1. 罗永宽、王文浩《联省自治与中共广东支部 “附陈反孙” 事件发覆》
+没啥新东西，唯一有用的就是所引文献。
+
+=== 2. 付志达《广州新文化运动再研究》
+龙济光主政时，广东无甚新风气，致使大批粤籍知识分子北上求学（陈公博、谭平山）；1919 年 9 月，陈炯明邀请梁冰弦去漳州做教育局长，又走了一大批无政府主义者，这种人才流失给广东新文化运动创造了不好的条件。1919 年五四运动时，广东正处于护法军政府统治下，所以当时的广东学联就罢课一事有相当分歧。
+
+让我知道了无政府主义期刊《民声》（活跃于1910 年代）、梁冰弦主持的《民风周刊》（1919 年创刊）。
+
+== 三十：#link("https://cuhk.edu.hk/ics/21c/media/articles/c125-201104050.pdf")[曾庆榴《無政府主義與廣州共產黨之源》]
+极好的材料，要点：
++ 梁冰弦在《解放别录》中记载：俄人 Broway 和 Stromisky 在 1920 年找到中国的无政府主义者和马克思主义者，希望能建立 “社会主义者同盟”，最终于 1920 年 5 月在陈独秀于上海的寓所中开了会，参会的除 Stromisky 和陈独秀以外，还有许多无政府主义者。
++ 社会主义者的组织分布于：
+  - 华北（北京）：李大钊、黄凌霜、Broway，出版《劳动音》；
+  - 华东（上海）：陈独秀、李汉俊、郑佩刚，出版《劳动界》；
+  - 华南（上海）：梁冰弦、刘石心（师复弟），出版《劳动者》（1984 年，广东人民出版社出版了沙东迅先生的编校版）
+  这些刊物，以及陈独秀之《新青年》《共产党》、无政府主义者景梅九之《自由》，通通都是借用晦鸣学社的印刷器材印刷的。
++ 彼时共产国际代表维经斯基派遣米尔诺（Konstantin A. Stoyanovich）和别斯林（Leonid Perlin）赴广州建立革命局，这俩人资助了《劳动者》
++ 维经斯基亲自来华以后，马上解散了北京上海的 “社会主义者同盟”，并建立党组织，然而在无政府主义盛行的广州，他却犯了难。于是在 1921 年亲自赴穗召开所谓大会，据梁冰弦回忆，维经斯基的表现如下（粗体为引者所加）：
+  #quote[
+    到那一天，華南區同盟半公開的辦事處作為會議廳，負有任務的各人都齊集，*惟陳獨秀預日託故離開廣州作短程旅行，避不出席*。敏諾和波爾西陪同倭挺斯基到會。入座後，倭打開公文包，撿出一帙14張紙用英文打字的講稿，抑揚頓挫地宣讀，讀了50分鐘，住了聲，坐下來聽候大家辯論。倭的講詞，前半是馬克斯哲學，列寧的革命方法。照他說是放之六合而皆準的。後半譴責中國自由社會主義者，既與蘇俄革命工作者表面合作，骨子里卻百分之百安那其，故思想、言論和行動無往而不相抵觸。*結論提出兩點：自由社會主義者放棄成見，絕對從同馬列主義者，不然解散組織，各行其是。……〔無政府主義者表示〕就此分手吧，再會。*
+  ]
+  维经斯基的行径不可不谓狂妄！史家一般认为，他这次冒进的会议使得共产党和无政府主义者分家，使得党人无法利用到受无政府主义者熏陶较深的机器工会，确是不良的后果。
+  另外，注意陈独秀并未参与这次会议，可能是不想和无政府主义者闹太僵。
++ 在 “安马分家” 的情况下，陈独秀重新找组党机会，这时他找到了已经返乡组建《广东群报》的三位粤籍北大学生 ── 谭平山、陈公博、谭植棠。这三人早在 1920 年就创立 “广东社会主义青年团”，他们的《群报》也是进步报纸，所以，陈独秀就以《群报》的编辑人员为主要对象，创办了 “广州共产党”。
+
+《劳动者》以及梁冰弦的《解放别录》都是极重要的史料，但前者排印太差，后者更是只有 60 年代的影印版，有机会得给它们重排一遍……
+
+= 十月
+== 初一：1920 年的“广东共产党”、广州“社会主义者同盟”、《解放别录》
+=== 1. 两桩悬案
+昨天读了曾庆榴的文章，文中他援引《廣州共產黨的報告》（出版于 1921，见《黨史研究資料》，1981 年第 6、7 期合刊，頁 11），提出了如下观点（首句“黄”指黄凌霜，粗体为引者所加）：
+
+#quote[
+在廣州，黃將米諾爾、別斯林引薦給梁冰弦（梁於粵軍回粵之前返廣州，任職於廣三鐵路局）、區聲白、黃尊生、劉石心等。經過一段時間的接觸之後，*他們共同成立了「廣東共產黨」*，由米諾爾、別斯林和七名無政府主義者「擔任黨的執行委員」。
+]
+
+也就是说，他认为此时已经由俄国人和一群无政府主义者创办了一个叫“广东共产党”的组织。此外，他根据《訪問鄭佩剛先生的記錄》#footnote[陳登才、鍾寧羽訪問，陳登才整理，1964年2月18日、3月30日、4月29日、5月10日，載《中共廣東黨史訪問資料》之二十七，油印本（〔廣州：〕中共廣東省委黨史研究委員會辦公室，1964），頁7；7；8）]，认为《劳动者》是“社会主义者同盟”华南分部的机关报，同时，梁冰弦在《解放别录》中也承认了“社会主义者同盟”的存在。
+
+然而，经沙东迅查访当事人，我们得到了截然不同的结论：当时根本没有“广东共产党”这个组织，“社会主义者同盟”也不存在：
+
+#quote(attribution: [#link("https://www.ncpssd.cn/Literature/secure/articleinfo?params=UDEzOUNaWDVaWXA1c3cxU0VJSEkrKzBoTTAzTDAvTmpQNE8veWJZTEJWekQ0MVVFdTg4NCttQmozK3BjL1lpOFQydkRlbzA3RjhRN3pSbFN5OUkwcmxNMXZNRUEvU3pOU3ovRllDL0gyamorZC9aK3BMSjNJcGNqUjk3U0tWdGU&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IuS5neiuv%252BS4reWFseW5v%252BS4nOWFmueahOWIm%252BW7uuingeivgeS6uiIgT1IgSUtQWVRFPSLkuZ3orr%252FkuK3lhbHlub%252FkuJzlhZrnmoTliJvlu7rop4Hor4HkuroiICBPUiBJS1NUPSLkuZ3orr%252FkuK3lhbHlub%252FkuJzlhZrnmoTliJvlu7rop4Hor4HkuroiIE9SIElLRVQ9IuS5neiuv%252BS4reWFseW5v%252BS4nOWFmueahOWIm%252BW7uuingeivgeS6uiIgT1IgSUtTRT0i5Lmd6K6%252F5Lit5YWx5bm%252F5Lic5YWa55qE5Yib5bu66KeB6K%252BB5Lq6Iik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5Lmd6K6%252F5Lit5YWx5bm%252F5Lic5YWa55qE5Yib5bu66KeB6K%252BB5Lq6Ig%253D%253D%2526nav%253D0%2526ajaxKeys%253D5Lmd6K6%252F5Lit5YWx5bm%252F5Lic5YWa55qE5Yib5bu66KeB6K%252BB5Lq6")[沙东迅《九访中共广东党的创建见证人──访谭祖荫（一）》]])[
+两个俄国人和我们七个无政府主义者没有成立广东共产党，也没有以《劳动者》周刊为机关刊物。
+
+……
+
+1920年至1921年共产党成立前，广州没有组织“社会主义者同盟”，郑佩刚当时主要在上海，极少来广州，他对广州的情况不大了解，他说广州此时有“社会主义者同盟”的回忆是不可靠的。
+
+……
+
+我个人印象，开头来的两个俄国人不是来建党的，而是搞工人运动的，他们与陈独秀不接头，没有多少联系。后来来的那个俄国人才是来建党的，与陈独秀的关系密切。前两个俄国人，可能是为了邀功而虚报在广东同七个无政府主义者成立了广东共产党小组，其实这是没有的事，应该澄清，这才是尊重历史。
+]
+
+上文第一段访谈也出现在沙东迅编《劳动者》附录中，（广东人民出版社，1984）。
+
+刘石心的意见也和谭一致：
+
+#quote(attribution: [#link("https://www.ncpssd.cn/Literature/secure/articleinfo?params=a2xpMzRzWWhrRUZXNXgrM3pISHFYTzBoTTAzTDAvTmpQNE8veWJZTEJWekQ0MVVFdTg4NCttQmozK3BjL1lpOFQydkRlbzA3RjhRN3pSbFN5OUkwcmxNMXZNRUEvU3pOU3ovRllDL0gyamorZC9aK3BMSjNJcGNqUjk3U0tWdGU&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9IuS5neiuv%252BS4reWFseW5v%252BS4nOWFmueahOWIm%252BW7uuingeivgeS6uiIgT1IgSUtQWVRFPSLkuZ3orr%252FkuK3lhbHlub%252FkuJzlhZrnmoTliJvlu7rop4Hor4HkuroiICBPUiBJS1NUPSLkuZ3orr%252FkuK3lhbHlub%252FkuJzlhZrnmoTliJvlu7rop4Hor4HkuroiIE9SIElLRVQ9IuS5neiuv%252BS4reWFseW5v%252BS4nOWFmueahOWIm%252BW7uuingeivgeS6uiIgT1IgSUtTRT0i5Lmd6K6%252F5Lit5YWx5bm%252F5Lic5YWa55qE5Yib5bu66KeB6K%252BB5Lq6Iik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5Lmd6K6%252F5Lit5YWx5bm%252F5Lic5YWa55qE5Yib5bu66KeB6K%252BB5Lq6Ig%253D%253D%2526nav%253D0%2526ajaxKeys%253D5Lmd6K6%252F5Lit5YWx5bm%252F5Lic5YWa55qE5Yib5bu66KeB6K%252BB5Lq6")[沙东迅《九访中共广东党的创建见证人──访刘石心（一）》]])[
+我未曾听说过两个俄国人要和我们建也广东产党的事。广东建立共产党组织的事，在我的记忆中是陈独秀到广州后才开始的，而陈独秀是陈炯明打回广州后才来广东的。
+
+……
+
+大约1919至1920年，社会主义者同盟先在北京发起，但广州没有这个组织。对这个组织，有讲的，有行动，但无手续。
+]
+
+刘石心也否认了《劳动者》和北京《劳动音》、上海《劳动界》的关系（注意这段话*不见于* 2011 年出版的两份刘石心访谈中）：
+#quote(attribution: [沙东迅编《劳动者》，广东人民出版社，1984])[
+我们的《劳动者》的名是从上海《劳动》杂志来的，与北京的《劳动音》、上海的《劳动界》无渊源、无联系。我们比较迟些，它们早些，我没有看过，也没有经过黄凌霜与北京《劳动音》有联系。
+]
+
+这两个组织到底存不存在？根据刘石心的言论，广州“社会主义同盟”既有行动又有议论，只是没有手续，我个人认为可以算是存在了，再不济也是“如在”。至于“广东共产党”，我认为应该是不存在的，不过我无法下确切结论。
+
+=== 2. 读《解放别录》
+今日开始重排《解放别录》，这短短两页，就让我花了不少功夫：
++ 查证“德莱西”及其著作；
++ 这部书连载于香港《自由人》报，我试图在网上查找这份短命的报纸，确有今人重刊本，然而网上根本没 pdf；
++ 试图尽可能多地搜集有关梁冰弦的文章，网络资源实在太少，只找到了 1962 年 10 月 18 日香港《华侨日报》发的讣告，也一并重排了。
+
+虽然重排的技术略显青涩，但是还是让我了解到许多关于梁冰弦的细节：
+- 他参与创办编辑的《中國與世界》月刊集结了一大批无政府主义者（巴金、朱谦之、刘石心），有空读一读；
+- 他似乎参与创办了星海音乐学院的前身──广州音乐学院；
