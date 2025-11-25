@@ -554,6 +554,8 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 
 （另外，沙东迅这个人可能有黑料：有人在知乎上发表了一篇控诉沙东迅徇私枉法的#link("https://zhuanlan.zhihu.com/p/669817020")[文章]，大意是说他恶意起诉他人，甚至派人向对方亲属下黑手。为保险起见，我在 Archive.Today 上面也备份了#link("https://archive.fo/NGni1")[原文存档]。）
 
+关于“社会主义者同盟”以及广州共产党早期组织的讨论，可参本月初四读书志。
+
 === 2. 读《解放别录》
 今日开始重排《解放别录》，这短短两页，就让我花了不少功夫：
 + 查证“德莱西”及其著作；
@@ -600,3 +602,48 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 - 中共东莞市委党史研究室编《袁振英研究史料》，中共党史出版社，2014，`ISBN: 978-7-5098-2716-1`；
 
 这两部书，前者史料详细，几乎每页都援引原始资料；后者则干脆就是史料集，内容丰富。
+
+== 初三：《袁振英传》，中共党史出版社，2009
+读了一点点，发现他原来是辜鸿铭的弟子。
+
+又及今天喝完茶以后没睡午觉，晚饭前很困，八点多稍微好一点。
+
+还读了李贺的《苦昼短》，原来经典的“唯见月寒日暖，来煎人寿”就出自这里。
+
+== 初四：《袁振英传》，中共党史出版社，2009
+今天有重大发现，在本月初一的读书志中提到了关于广州“社会主义同盟”存在与否的争议，今天所见材料虽不能就这个话题做结论，但可以澄清一件事：*上海“社会主义者同盟”是的的确确存在的*。
+
+是书 67 页引罗素自传显示：袁振英曾给罗素去信，落款处明确表明自己乃是“中国无政府-社会主义同盟秘书”，经我查证英文本罗素自传，确是如此。另外，曾庆榴#link("https://www.ncpssd.cn/Literature/secure/articleinfo?params=Q2JwWXd1VnhIY3JCdGlLTWUzMXZmREpEbktBczlTWXVFZjIvQWgwM0VicmVXcVFKMk5HUVRhUk9TalB6U3I4amM2QVVHUUdzRWdZRythMlFHSkllM2MzZlI1SUhiZStlNDZhNUdEUElBMnlDRENPVExRWE9mbWdXQStIQ3c3bGsreENwNUMwMWVzK0YyYVQxY3ZhZ2h3PT0")[《混沌初开：广州共产党早期组织的建立》]一文也据罗素自传作了相同论证。曾庆榴的这篇文章，算是一份极好的综述，对广州共产党早期组织的建立作了细致梳理。
+
+== 初五：梁冰弦《解放別錄》
+今日校书四页，没什么新东西。海隅孤客的口水话太多……
+
+== 初六：《袁振英研究史料》，中共党史出版社，2014
+读了袁振英给周恩来的三封信，第一封作于建国后不久，袁振英向周恩来倾诉自己失业的现状，请求帮助。注意：袁振英失业，并不是因其无能或好吃懒做：其胞弟在越南西贡有工作，并邀请袁振英赴越；以及袁振英北大同学傅斯年也曾邀其赴台，但以这两次邀请，分别被袁振英以“拒绝前往帝国主义殖民地”和“回到祖国怀抱”为由拒绝。
+
+后两封均作于 1973 年，信中袁振英吐露出自己因政府二十年间不允加薪、妻子因在中学仅做半日制校医而没有退休金，日子穷困潦倒，请周恩来帮助。同时，他也告诉周恩来十年浩劫中的乱象：袁振英本人作为坚定的爱国主义者，以种种荒谬的理由多次捕入大牢，受遍凌辱。
+
+这十年究竟发生了什么？
+
+== 胡黛莲、《廣雅叢報》
+=== 1. #link("https://wikimore.private.coffee/wiki/en/wiki/Voltairine_de_Cleyre")[_Voltairine de Cleyre_ (Wikipedia)]
+/ convent: 女修道院, eg. Voltairine de Clerye lived in a convent
+/ deteriorate: to grow worse, eg. someone's health deteriorated
+/ stir: 摇动, eg. palm trees stir in the soft breeze
+/ incite: stir up, eg. incite people to riot
+/ eulogize: eulo-gize, to praise, to acclaim, eg. de Clerye was eulogized by many anarchists of her time
+/ vein: a blood vessel that transports blood from the capillaries back to the heart 静脉
+/ grave: also an adjective: serious, strict, severe, eg. someone is gravely ill
+/ curb: to control something, also a noun, eg. he curbed his temper
+/ recite: 背诵, eg. she recited poetry to herself
+/ nun: 尼姑
+/ withhold: 保留、保密, eg. de Clerye's correspondence was withheld by the nuns
+/ superstition: 迷信
+/ recount: to narrate, to tell, 描述 eg. recount a story
+
+袁振英曾翻译过“胡黛莲”的书（见受匡出版部《牧师与魔鬼》《罪与罚》），此人本名 Voltairine de Cleyre，她是一位早逝的美国无政府主义者，哥德曼曾评价她是所有美国无政府主义者中最有文艺天赋的人。
+
+=== 2. 《广雅丛报》
+梁冰弦竟然在 1937 年 4 月《广雅丛报》创刊号上发表过两篇文章！顺手给排了。
+
+所有人都是相通的，世界真小！
