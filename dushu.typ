@@ -29,6 +29,12 @@
 // Set the separator between term list and content
 #set terms(separator: [*:* ])
 
+// Set level 1 heading in toc bold
+#show outline.entry.where(
+  level: 1
+): set text(weight: "bold", size: 15pt)
+
+
 ////////////////////////////////////////////////////////////////////
 ////////////////////////////  Title  ///////////////////////////////
 ////////////////////////////////////////////////////////////////////
@@ -603,7 +609,7 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 
 这两部书，前者史料详细，几乎每页都援引原始资料；后者则干脆就是史料集，内容丰富。
 
-== 初三：《袁振英传》，中共党史出版社，2009
+== 小雪：《袁振英传》，中共党史出版社，2009
 读了一点点，发现他原来是辜鸿铭的弟子。
 
 又及今天喝完茶以后没睡午觉，晚饭前很困，八点多稍微好一点。
@@ -618,15 +624,15 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 == 初五：梁冰弦《解放別錄》
 今日校书四页，没什么新东西。海隅孤客的口水话太多……
 
-== 初六：《袁振英研究史料》，中共党史出版社，2014
+== 初六：《袁振英研究史料》、胡黛莲、《广雅丛报》
+=== 1. 袁振英
 读了袁振英给周恩来的三封信，第一封作于建国后不久，袁振英向周恩来倾诉自己失业的现状，请求帮助。注意：袁振英失业，并不是因其无能或好吃懒做：其胞弟在越南西贡有工作，并邀请袁振英赴越；以及袁振英北大同学傅斯年也曾邀其赴台，但以这两次邀请，分别被袁振英以“拒绝前往帝国主义殖民地”和“回到祖国怀抱”为由拒绝。
 
 后两封均作于 1973 年，信中袁振英吐露出自己因政府二十年间不允加薪、妻子因在中学仅做半日制校医而没有退休金，日子穷困潦倒，请周恩来帮助。同时，他也告诉周恩来十年浩劫中的乱象：袁振英本人作为坚定的爱国主义者，以种种荒谬的理由多次捕入大牢，受遍凌辱。
 
 这十年究竟发生了什么？
 
-== 胡黛莲、《廣雅叢報》
-=== 1. #link("https://wikimore.private.coffee/wiki/en/wiki/Voltairine_de_Cleyre")[_Voltairine de Cleyre_ (Wikipedia)]
+=== 2. #link("https://wikimore.private.coffee/wiki/en/wiki/Voltairine_de_Cleyre")[_Voltairine de Cleyre_ (Wikipedia)]
 / convent: 女修道院, eg. Voltairine de Clerye lived in a convent
 / deteriorate: to grow worse, eg. someone's health deteriorated
 / stir: 摇动, eg. palm trees stir in the soft breeze
@@ -636,6 +642,7 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 / grave: also an adjective: serious, strict, severe, eg. someone is gravely ill
 / curb: to control something, also a noun, eg. he curbed his temper
 / recite: 背诵, eg. she recited poetry to herself
+/ assimilate: absorb, incorporate 吸收、同化, eg. de Clerye was worried the tendency of some jews comrades to assimilate into the dominant American capitalist culture
 / nun: 尼姑
 / withhold: 保留、保密, eg. de Clerye's correspondence was withheld by the nuns
 / superstition: 迷信
@@ -643,7 +650,82 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 
 袁振英曾翻译过“胡黛莲”的书（见受匡出版部《牧师与魔鬼》《罪与罚》），此人本名 Voltairine de Cleyre，她是一位早逝的美国无政府主义者，哥德曼曾评价她是所有美国无政府主义者中最有文艺天赋的人。
 
-=== 2. 《广雅丛报》
+=== 3.《广雅丛报》
 梁冰弦竟然在 1937 年 4 月《广雅丛报》创刊号上发表过两篇文章！顺手给排了。
 
 所有人都是相通的，世界真小！
+
+== 初七：胡黛莲、投射对象
+=== 1. #link("https://wikimore.private.coffee/wiki/en/wiki/Voltairine_de_Cleyre")[_Voltairine de Cleyre_ (Wikipedia)]
+/ clerk: a person works in an office 文书, also adjective *clerical* with a further meaning 教士的、牧师的 eg. the clerical authority
+/ orator: a person skilled at making formal speeches
+/ provoke: deliberately annoy some one; cause a reaction 挑衅、激发
+/ vow: swear, but more serious and usually used in a formal way, also a noun
+/ secular: opposed to "clerical", not bound by religious vows 世俗的
+/ exert: to exert influence, authority or pressure means to use it in a stronf way 施加, eg. Famous historians exerted considerable influence on the thinking of history
+/ monopoly: 垄断
+/ exploit: to exploit someone means to treat he unfairly give little in return 剥削, eg. de Clerye denounced labor exploitation
+/ oppression: similiar to "repression", but "oppression" is usually used in political context while "repression" is usually used in psychology context
+/ perpetrator: criminal, also verb "perpetrate" means do evil things
+/ feud: a state of long-standing mutual hostility, eg. the feud of de Clerye with Goldman
+/ rebuff: a sudden resistance or refusal, eg. de Clerye was hurt by the rebuff that Goldman did not want to see Gordon
+/ indulge: 沉溺、纵乐, also noun form "indulgence", eg. de Clerye sriticised Goldman's indulgence in material pleasure
+/ extravagant: if someone is extravagant, then he spends much money on luxury things 奢侈的、浪费的, also noun form "extravagance", eg. middle-class extravagance
+/ vigor: 活力, also verb form "in*vigo*rate", eg. the sacrifice of Haymarket martyrs invigorated the anarchist movement
+/ sustain: to sustain something means to maintain it, eg. sustained proverty had exhausted de Clerye
+/ flair: talent
+/ conserve: to save for later use, eg. to conserve her energy, de Clerye curbed her speaking and writing efforts
+/ mourn: 哀悼 eg. de Clerye mourned anarchist assasins when they were excuted
+/ tyranny: cruel, harsh, unfair goverment 暴政, eg. anarchists denounced tyranny
+
+我肯定会对她感兴趣。这个人有种诗人气质。
+
+=== 2. #link("https://wwli.asia/downloads/books/Al-jabr-2.pdf")[李文威《代数学方法卷二》]
+今天终于知道了为什么内射对象、投射对象的泛性质*不需要*唯一性条件。
+
+首先，一般理论告诉我们：Abel 范畴对象诱导的米田嵌入都左正合：对于任意 Abel 范畴 $cal(A)$ 及其中对象 $X in cal(A)$，米田嵌入 $"Hom"(X, -): cal(A) -> bold("Ab")$ 及 $"Hom"(-, X): cal(A)^"op" -> bold("Ab")$ 都左正合，也就是都保有限极限。
+
+那么我们想知道，什么对象诱导的米田嵌入还能进一步右正合，也就是保有限余极限？结合标题，已经猜到这肯定和内射对象、投射对象有关！
+
+李文威命题 2.8.11 直接把投射对象定义为使 $"Hom"(P, -)$ 右正合的对象 $P in cal(A)$，根据注记 2.8.4，一个左正合函子只需要保满射就能成为右正合函子，所以，我们并不强求唯一性。至于内射对象，无非是对偶范畴中的投射对象，所以也不需要唯一性条件。
+
+看来这些东西全都有范畴渊源，不然根本不理解为啥突然冒出来这些对象，更不知道为什么不要唯一性。
+
+=== 3. 《历有争议的陈炯明》
+616 以后，陈炯明和孙中山之间其实有多次和解的机会，吴稚晖、皖系、廖仲恺等等一堆人都说过情，可惜无效。
+
+今天所见最有趣处在于某孙姓国民党员的话（粗体为我所加）：
+
+#quote(attribution: "《孙中山全集》第九卷第 394 页，转引自段云章、沈晓敏、倪俊民《历有争议的陈炯明》第 350 页")[
+我们三民主义的意思就是民有、民治、民享。这个民有、民治、民享的意思，就是国家为人民所共有，政治是人民所共管，利益是人民所共享。照这样的说法，*人民对国家不止是共产，一切事权都是要共的*。这才是真正的民生主义，就是孔子所希望之大同世界。
+]
+
+一个国民党员说这种话，他到底还高不高举蒋介石特色三民主义的大旗了？必须严查、严抓、严打！
+
+== 初八：#link("https://theanarchistlibrary.org/library/anarcho-voltairine-de-cleyre-her-revolutionary-ideas-and-legacy")[_Voltairine De Cleyre: Her revolutionary ideas and legacy_]、孙受匡
+
+=== 1. #link("https://theanarchistlibrary.org/library/anarcho-voltairine-de-cleyre-her-revolutionary-ideas-and-legacy")[_Voltairine De Cleyre: Her revolutionary ideas and legacy_]
+/ mar: to damage something, eg. This book is marred by the editor's intoduction
+
+对有关胡黛莲的三部书的点评，分别是：
+
+- _The Voltairine De Cleyre Reader_, A. J. Brigati (Editor), AK Distribution;
+- _Gates of Freedom: Voltairine De Cleyre and the Revolution of the Mind_, Eugenia C. Delamotte, University of Michigan Press;
+- _Exquisite Rebel: The Essays of Voltairine De Cleyre – Anarchist, Feminist, Genius_, Sharon Presley and Crispin Sartwell (Editors), State University of New York Press.
+
+粗略来看，著者认为第一本书最佳（因文献多、便宜，而且是无政府主义者出版的）。
+
+=== 2. 《牧师与魔鬼》，袁振英
+其实没读，只是发现了本书出版商孙受匡，他似乎是香港新文学的先锋，港大好像还出关于他的书了。
+
+== 初十：#link("https://e-muzeo.uzz.edu.cn/shown.asp?id=503")[黄尊生《我与世界语运动》]
+黄尊生，广东人，外文名 Wong Kenn，早年负 笈法国里昂大学并获博士学位，论文为《埃及象形文字与中国六书》。留法期间，曾赴欧洲各地， 代表中国多次出席国际世界语会议。归国后曾任广州世界语学会常务理事，1949 年后辗转世界 各地教书，1955 年在第四十届国际世界语大会上当选为世界语学院院士。1990 年病逝于香港。
+
+此人与区声白曾一同参与 1922 国际世界语教育会议，然区声白“虽热心，然涩于口齿”，于是黄尊生代报告世界语在华状况。
+
+另外注意：世界语组织曾 $n$ 度分裂，这笔烂账我暂时无兴趣了解。
+
+蔡元培曾参与世界语大会。
+
+黄尊生自述留学期间“同侪中因贫病交困而死，或半途辍学归国，或入工厂做工者，先后已有多人，而我亦为病魔所缠，精神极度恍惚，同侪亦窃窃忧虑”，留学之苦，古今无不同！
+
