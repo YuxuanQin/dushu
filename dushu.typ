@@ -804,3 +804,73 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 关于这位奇女子的进一步介绍，请见 #link("https://wikimore.private.coffee/wiki/en/wiki/Dai_Qing")[Wikipedia]。
 
 通过校长，对新儒家（又一次）发生了兴趣，据#link("https://www.bilibili.com/video/BV18xcteXEm4")[此哔哩哔哩视频]的大点兵，有如下角色值得关注：蒋庆、陈明、张祥龙、康晓光、郑家栋。
+
+== 十六
+=== 1. #link("https://wikimore.private.coffee/wiki/en/wiki/Dai_Qing")[戴晴（Wikipedia）]
+/ incarcerate: to lock away, to imprison, eg. 戴晴 was incarcerated for ten months
+/ petroleum: 石油, eg. 戴晴's mom was trained as a petroleum enginer in japs' country
+/ surveillance: close observation of an individual or group; person or persons under suspicion
+/ dire: extremlly serious and terrible, eg. dire consequences in Russian after the collapse of USSR
+/ plight: a dire or unfortunate situation
+/ dissident: people who hold a different or even opposed opinions of politics to the goverment
+/ patriot: people who love their motherland
+/ acerbic: critical and direct, eg. an acerbic humour
+/ contempt: discrimination
+/ sarcasm: use of acerbic language to convey contempt, 讽刺
+/ curtail: cut-tail, truncate, shorten, reduce, eg. curtail corruption
+/ heed: attention, pay attention to, eg. the goverment took no heed on this issue
+/ detain: 拘留
+/ instigate: encourage or provoke somebody to do something (usually bad), eg. instigate civil unrest
+
+=== 2. 《袁振英传》
+- 袁振英开广雅男女同校之先河后，以黄壁魂为代表的广州妇女们向陈炯明情愿全省中学均开女禁，最终成功。
+
+=== 3. #link("https://wikimore.private.coffee/wiki/zh/wiki/%E6%BC%A2%E6%96%87%E8%A8%93%E8%AE%80")[漢文訓讀（Wikipedia）]
+#quote[
+在清末民初梁啟超等人寫了《和文漢讀法》一書，提倡“和文漢讀法”，即只憑簡易日文文法，按漢文訓讀體的一些漢字以中文文法顛倒讀之、推其大意來解讀日文；梁啟超在《論學日本文之益》（1899年）寫道“余輯有《和文漢讀法》一書，學者讀之，直不費俄頃之腦力，而所得已無量矣。”不過，其使用範圍僅限漢文訓讀體，於日文的其他文體（包括現代日語、和漢混淆體）幾乎不能使用。周作人在1936年發表了隨筆《苦竹雜記・和文漢讀法》，認為梁啟超的《和文漢讀法》令人們低估了日文的難度，且“……《和文漢讀法》不能說是全錯。不過這不能應用於別種的文體，而那種漢文調的和文近來卻是漸將絕跡了。”
+]
+
+原来梁启超早就做过我需要的东西了！
+
+== 十七：#link("https://www2.kansai-u.ac.jp/shkky/wakumon/no-11/wakumon11_13_shen%20guowei.pdf")[沈國威《黃遵憲的日語；梁啓超的日語》]
+此文甚好，总结了黄遵宪和梁启超的日语学习过程，其中最要者为：
+- 黄遵宪对日语的评论：“字同而聲異，語同而讀異，文同而義異，故求譯其文亦難……恨非漢文……各史所引書目，多和文者，僕意欲得漢文者耳。”
+- 梁启超在日本时，向万木草堂的同学罗普（此人活到了 1949 年）学习日语，二人合编一部教材《和文漢讀法》，内容丰富，不拘于现在盛行的那种应试语法，而且貌似是以汉文训读体为核心的教材，比现代日语好得多。
+
+== 十八：别林斯基、金宝瑜的文章
+=== 1. #link("https://wikimore.private.coffee/wiki/en/wiki/Vissarion_Belinsky")[_Vissarion Belinsky_ (Wikipedia)]
+/ autocracy: 独裁
+/ pernicious: causing much harm in a subtle way, eg. Belinsky told Gogol the public will never forgive a pernicious book
+/ filth: dirt
+/ serfdom: 农奴
+/ convict: 判罪、罪犯, eg. Dostoevsky was arrested, convicted and condemned to death in 1849
+/ consumption: 肺痨
+/ profuse: abundant or generous to the point of excess 丰富的, eg. The works of Belinsky edited by Vengerov is supplied with prefuse notes
+/ erratic: unsteady, random, eg. Isaiah Berlin points out Belinsky was wildly erratic
+/ lapse: a temporary failure, eg. memory lapse
+/ retreive: get something back from the place where you left it, 找回、挽回, eg. The situation is irretreivable
+/ resurrect: to raise from dead 复活
+
+犹太佬以赛亚 · 柏林对别林斯基的评价（真 · 长难句）：
+#quote(attribution: "Isaiah Berlin")[
+  #text(lang: "en")[Because he was naturally responsive to everything that was living and genuine, he transformed the concept of the critic's calling in his native country. The lasting effect of his work was in altering and altering crucially and irretrievably, the moral and social outlook of the leading younger writers and thinkers of his time. He altered the quality and the tone both of the experience and of the expression of so much Russian thought and feeling that his role as a dominant social influence overshadows his attainments as a literary critic.]
+]
+
+== 2. 金宝瑜 _Revolution and Counterrevolution_
+/ reliant: To be reliant is to depend on someone or something. When you're reliant on a person, you need that person. (*Warning*: do not confuse it with "reliable") eg. During the socialist period China pursued a self-reliant socialist economic development
+/ pinpoint: point out, eg. They pinpointed the reason for China’s "slow" development as the "low" level of capital accumulation
+/ reserve: 储备、预订, eg. According to Deng this could be accomplished by releasing the large “reserve” of labor in the countryside
+/ commodity: goods, stuff for sale
+/ surplus: A surplus is something extra or left over. If your tree produces more apples than you can eat, you can make applesauce with the surplus of apples.
+/ plant: also means "factory"
+/ relentless: 无情、不间断的, eg. relentless expansion
+/ dispute: If kids can't settle their own argument, they may need someone to mediate their dispute, or conflict. You can often tell this is the case if you hear the loud cry, "Mom!", eg. trade disputes between US and CN
+/ subsist: To subsist is to feed yourself, eg. And long as jobs were available, there were no shortage of migrants who would travel far distances to subsist and support their families
+/ deplete: To deplete is to use up or consume a limited resource. Visiting relatives might deplete your refrigerator of food, or a pestering friend might deplete your patience.
+/ frantic: marked by uncontrolled excitement or emotion
+/ scant: a tiny amount, eg. scant arable land for agriculture
+/ stagnate: eg. Industry will stagnate if we do not stimulate our economy
+/ sector: 部门, eg. services sector
+/ compel: Compel means to force or drive someone to do something.
+
+看完了第二节
