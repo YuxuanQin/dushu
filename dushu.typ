@@ -270,7 +270,7 @@ $ |X| tilde.equiv M, $
 / conciliate: to do so to a group, you end a disagreement between them 安抚, also *re-conciliation* 和解
 / proclaim: formally make something known to the public, announce
 / linger: 徘徊
-/ prevail: superior in strength and dominance 盛行, eg. we must eradicate those prevailing wrong thoughts
+/ prevail: superior in strength and dominance, to successfully persuade someone of something, eg. we must eradicate those prevailing wrong thoughts
 / courtesy: polite, politeness, eg. courtesy name $=$ 号 while name is just 名
 / tenet: sounds like "te-nit", belief, doctrin of somebody
 / infancy: 婴儿期
@@ -837,7 +837,7 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 - 黄遵宪对日语的评论：“字同而聲異，語同而讀異，文同而義異，故求譯其文亦難……恨非漢文……各史所引書目，多和文者，僕意欲得漢文者耳。”
 - 梁启超在日本时，向万木草堂的同学罗普（此人活到了 1949 年）学习日语，二人合编一部教材《和文漢讀法》，内容丰富，不拘于现在盛行的那种应试语法，而且貌似是以汉文训读体为核心的教材，比现代日语好得多。
 
-== 十八：别林斯基、金宝瑜的文章
+== 大雪：别林斯基生平、金宝瑜的文章
 === 1. #link("https://wikimore.private.coffee/wiki/en/wiki/Vissarion_Belinsky")[_Vissarion Belinsky_ (Wikipedia)]
 / autocracy: 独裁
 / pernicious: causing much harm in a subtle way, eg. Belinsky told Gogol the public will never forgive a pernicious book
@@ -856,7 +856,7 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
   #text(lang: "en")[Because he was naturally responsive to everything that was living and genuine, he transformed the concept of the critic's calling in his native country. The lasting effect of his work was in altering and altering crucially and irretrievably, the moral and social outlook of the leading younger writers and thinkers of his time. He altered the quality and the tone both of the experience and of the expression of so much Russian thought and feeling that his role as a dominant social influence overshadows his attainments as a literary critic.]
 ]
 
-== 2. 金宝瑜 _Revolution and Counterrevolution_
+=== 2. 金宝瑜 _Revolution and Counterrevolution_
 / reliant: To be reliant is to depend on someone or something. When you're reliant on a person, you need that person. (*Warning*: do not confuse it with "reliable") eg. During the socialist period China pursued a self-reliant socialist economic development
 / pinpoint: point out, eg. They pinpointed the reason for China’s "slow" development as the "low" level of capital accumulation
 / reserve: 储备、预订, eg. According to Deng this could be accomplished by releasing the large “reserve” of labor in the countryside
@@ -874,3 +874,118 @@ As such, there is a good deal of overlap with the introductory paper of Friedman
 / compel: Compel means to force or drive someone to do something.
 
 看完了第二节
+
+== 二十
+=== 1. 金宝瑜 _Revolution and Counterrevolution_
+/ disciple: a follower or a fan of someone
+
+=== 2. Sheila Fitzpatrick _THE SHORTEST HISTORY of THE SOVIET UNION_
+/ erstwhile: former, eg. If your dad used to play in a punk band, but is now a computer programmer, you could call him an erstwhile punk rocker.
+/ pariah: DALIT 印度种姓之贱民
+/ verge: edge, boundary, border, eg. Khrushev seemed to bring the
+nation to the verge of war again in the Cuban missile crisis
+/ topple: To topple something is to knock it down. A house of cards can be toppled -- so can a government.
+/ genial: kind and friendly, eg Brezhnev was a genial man
+/ triumph: A triumph is a well-earned victory. It'll make you pump your fist and yell "Hurrah!"
+/ espouse: Use the verb espouse to describe the actions of someone who lives according to specific beliefs, such as your friends who espouse environmentalism and as a result walk whenever possible instead of taking the car.
+/ ameliorate: To ameliorate is to step in and make a bad situation better, eg. acute housing shortage had been ameliorated
+/ tutelage: (Sounds like tute-lidze) If you babysit and tutor younger children after school, the kids are under your tutelage. You are responsible for their care and education.
+/ boycott: To boycott means to stop buying or using the goods or services of a certain company or country as a protest
+/ tarnish: To tarnish is to become dull or discolored. Silver tends to tarnish easily, which is why your mother is always having you polish the family silver.
+/ eminent: Anyone highly regarded or prominent is eminent. Eminent people are very successful at their jobs
+/ pejorative: Call a word or phrase pejorative if it is used as a disapproving expression or a term of abuse. Tree-hugger is a pejorative term for an environmentalist
+/ periphery: When something is on the periphery of your vision, you can only see it when you’re looking sideways. Periphery means outside the boundary of something
+/ flatter: When you flatter someone, you praise and compliment him or her — but you aren't totally sincere. You flatter your friend by telling her she's the best driver in the world. Because you want her to offer you a ride
+/ compliment: A compliment is an expression of respect or admiration, like, "You're such a good writer," or "You know so many words!" Keep them coming (*Warn*: do not confuse with complement)
+/ reverent: When you have great awe and respect for someone or something, and you show it by respectfully worshiping that person, thing, deity, or musical group, you are being reverent
+/ secede: To secede is to go your own way, breaking off ties. Usually, this refers to one part of a country that wants to become independent, like the South during the U.S. Civil War
+/ albeit: although, even though
+/ diminish: Diminish means to make smaller or lesser. If you cover a lightbulb with a dark lamp shade, the light from the lamp will diminish
+/ pernicious: Pernicious means harmful and subtle, such as a poison gas that causes illness in those exposed to it over the course of years
+/ estate: 房地产
+/ egregious: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game
+/ slippery: Slippery things are slimy or wet, or for some other reason cause you to slide on them. A slippery fish is hard to hold in your hand, and a slippery path is easy to slip on
+/ emancipate: If you emancipate someone, you set them free from something. At the end of the Civil War, slaves were emancipated and became free men and women
+/ anomaly: An anomaly is an abnormality, a blip on the screen of life that doesn’t fit with the rest of the pattern. If you are a breeder of black dogs and one puppy comes out pink, that puppy is an anomaly.
+/ accommodate: 容纳, eg. The intelligentsia, or educated class, was a
+modern anomaly not accommodated by the estate scheme.
+/ census: 人口普查
+/ asylum: 政治庇护
+/ revile: If something is reviled, you alone don’t dislike it; a whole community of like-minded souls has to hate its guts. For instance, spam is widely reviled
+/ precarious: unstable and dangerous, eg. the precariousness of tsarist power became evident when in 1905
+/ conspicuous: 显眼的 eg. Most people don't want to be too conspicuous
+/ emissary: 密使 eg. But peasants gave Narodnik emissaries short shrift
+/ give ... short shrift: 忽视
+/ inexorable: When a thing or process is inexorable, it can't be stopped, eg. the inexorable "necessity" of revolution
+/ motley: 混杂的 eg. Lenin joined the motley group of Russian and other Eastern European revolutionaries
+/ congregate: to come together, to assemble, or to gather, eg. The revolution group congregated in London
+/ lodge: A lodge is an inn where travelers stay overnight. If you’re in need of a night’s sleep while traveling an out of the way country road, you’re more likely to find yourself at a lodge than a fancy or chain hotel
+/ snap: 断裂 eg. the weakest link in the imperialist chain would be the first to snap
+/ scoff: To laugh at someone with scorn is to scoff at them
+/ maverick: A maverick is a rebel, someone who shows a lot of independence
+/ lament: If you are really upset or sorry about something, you might lament it. A lament is full of regret and grief
+/ deport: To deport is to kick someone out of a country or to deliver a person to the authorities of another country
+/ hinterland: 内地
+/ provisional: temporary, eg. provisional goverment
+/ undertake: When you undertake a task or challenge, you attempt to accomplish it
+
+书中记录了这样一个笑话（真的很好笑）：
+#quote[
+(Question) What is the difference between capitalism and socialism?
+
+(Answer) Capitalism is the exploitation of man by man, and socialism is its replacement by its opposite.
+]
+
+== 廿一：_The Cambridge History of Russia (Volumn III)_
+/ endeavour: To endeavour is to strive for something. The endeavour itself is the thing you're striving for, the enterprise or undertaking
+/ confound: If you have an identical twin, you've probably tried dressing alike so that people confound you with, or mistake you for, one another, eg. confound social science with socialism
+/ dissension: You can use the noun dissension for situations where people just can't agree or get along. There is often dissension between labor unions and governments vying for funds
+/ futile: When something fails to deliver a useful result, you can call it futile
+/ infant: An infant is a baby. When you were an infant, you weren't able to walk, talk, or feed yourself
+/ stoicism: If you rarely show emotion or feeling, that’s stoicism. Your stoicism helps you endure physical or emotional discomfort without complaint
+/ confrontation: A confrontation is an angry disagreement. You might become so irritated about your upstairs neighbor's loud, awful music that a confrontation is unavoidable 对抗, eg. the government was not ready for a confrontation with the unions
+/ contend: To defend a belief or keep affirming that it's true is to contend. People used to contend that the earth was flat
+/ vigilance: Vigilance is devoted attentiveness or watchfulness. Security guards and test proctors alike need to practice vigilance
+/ spectacular: The noun spectacular refers to a big, beautiful production, like a play or musical performance that has a huge cast and many dance numbers, also adjective "excellent, impressive"
+
+== 廿二：《袁振英传》
+实社丛书也是受匡出版的。
+
+== 廿三：《袁振英传》
+读毕。
+
+书中引袁振英次子袁昌法的回忆，不见于《袁振英研究史料》。
+
+== 廿四：Julia Leigh - _Sleeping Beauty_
+原来小时候看的是删减版。
+
+== 廿五：《东南亚近现代史（下）》，昆仑出版社
+英国佬和法国佬都是坚定的帝国主义战士，在这些人眼里不满意的条约都是屁、都可以公然撕毁，百姓可以随便屠杀，且不会受到欧美集团的指责，这就是文明世界！
+
+法国佬只要对越南人好一点，减轻苦役、建造医院、教他们读书认字，越共的势力就会被大大削弱，这么简单的策略，法国佬都不知道吗？他们当然知道，不过越南人在他们眼里根本不是人。
+
+“士为知己者死，女为悦己者容”，诚哉斯言！
+
+== 廿七：徐静江《宋教仁的东京岁月及其所交往的日本人》
+短文，信息不多：
+
+- 宋教仁会日语，也上过课有成绩单；
+- 宋教仁十分赏识宫崎滔天，同时北一辉十分赏识宋教仁；
+
+剩下的信息，得从《宋教仁日记》和一堆日文文献中去找了。
+
+= 冬月
+== 冬至：#link("https://wikimore.private.coffee/wiki/en/wiki/National_Bolshevism")[_National Bolshevism_ (Wikipedia)]
+/ insurgent: An insurgent is a rebel or a revolutionary, someone who takes up arms against the authorities.
+/ expulsion: Expulsion is being kicked out of something, like a club, a school, or an airplane.
+/ syncretism: Syncretism is a union or attempted fusion of different religions, cultures, or philosophies — like Halloween, which has both Christian and pagan roots, or the combination of Aristotelian philosophy with the belief system of the early punk rock practitioners. (*Sync*)
+/ heterogenous: The adjective heterogenous is a somewhat comparative word, suggesting that two or more things are unlike in substance or nature, as in a heterogenous mixture containing two substances that do not totally combine, like oil and water. (We can see the roots of heterogenous in the Greek combination of heteros, meaning "other," and genos, meaning "a kind.")
+
+== 初四：《反人类暴行》第四集《满洲新娘》
+上世纪，日本人为了殖民中国东北，实行了“满洲新娘”计划：通过给朝鲜、中国台湾和日本本土的青春女子洗脑，让他们前往中国东北做开拓团成员的“老婆”，打引号是因为这不是自由恋爱，甚至不是包办婚姻，而是纯粹的市场——男人像挑选妓女一样挑“老婆”。
+
+我不知道现在的所谓日本“右翼”会如何看待他们这一“光荣”的传统文化……
+
+经过初步探索，我发现日本人还在南美洲等地发动了类似计划，日语把派往海外开拓团的女子统称为“大陆花嫁”，现在通行的英文翻译是“continental bride”。
+
+“满洲新娘”方面的研究，豆包给了一些回答。至于更广泛的“大陆新娘”，我找到一个研究日本的美国华人 Sidney X. Lu（汉名不详），参其#link("https://sidneylu.rice.edu/")[主页]。
