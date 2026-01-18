@@ -127,7 +127,6 @@
 / court:
 / disparage:
 / dwarf: japs
-/ escalte:
 / coup:
 / squint:
 / cadre: 干部
@@ -989,3 +988,136 @@ modern anomaly not accommodated by the estate scheme.
 经过初步探索，我发现日本人还在南美洲等地发动了类似计划，日语把派往海外开拓团的女子统称为“大陆花嫁”，现在通行的英文翻译是“continental bride”。
 
 “满洲新娘”方面的研究，豆包给了一些回答。至于更广泛的“大陆新娘”，我找到一个研究日本的美国华人 Sidney X. Lu（汉名不详），参其#link("https://sidneylu.rice.edu/")[主页]。
+
+== 初五：#link("https://wikimore.private.coffee/wiki/en/wiki/Strasserism")[_Strasserism_ (Wikipedia)]
+/ pragmatic: To describe a person or a solution that takes a realistic approach, consider the adjective pragmatic. The four-year-old who wants a unicorn for her birthday isn't being very pragmatic.
+/ overt: Overt means open and done in plain sight. An overt demand for an increase in your allowance probably won't work; instead, try praising your parents' generosity and dropping hints about how high prices are these days.
+/ proscribe: To proscribe something is to forbid or prohibit it, as a school principal might proscribe the use of cell phones in class.
+/ destiny: 天命, eg. Strasser argued, men were all merely "the emissaries, the instruments of destiny."
+/ articulate: express or state clearly, eg. To articulate his opposition to the _Führerprinzip_
+/ agrarian: Use the word agrarian to describe something related to fields, farming, or rural matters.
+/ vocation: 职业
+/ sacrosanct: something too special or important to interrupt 神圣的
+/ insulate: The verb insulate means "protect from heat, cold, or noise," like when you add an extra layer of clothing to insulate yourself from the cold.
+/ allege: If you accuse someone of committing a crime but the proof of the wrongdoing isn't yet found, use the verb allege. 
+
+== 初六：#link("https://wikimore.private.coffee/wiki/en/wiki/Strasserism")[_Strasserism_ (Wikipedia)]
+/ pledge: A pledge is basically very serious formal promise. You can pledge allegiance to your country, you can pledge to keep a secret, and you can pledge a sum of money to a cause.
+/ conscience: A conscience is a built-in sense of what's right and what's wrong. That sick feeling in your stomach after you lied to your brother about borrowing his skateboard? That might be your conscience bothering you. 良心
+/ stipulate: To stipulate something means to demand that it be part of an agreement. So when you make a contract or deal, you can stipulate that a certain condition must be met. 要求、明确规定
+/ invoke: To invoke is to call up something such as a law, a higher power, or even a ghost. In court, you might invoke the Fifth Amendment (the right not to say something that will make you look bad) if you don't want to talk.
+/ descent: 血统、下坡 do not confuse with "decent"
+/ obidient: If you always do what you’re told, you can be described as obedient. Authority figures love to have obedient followers. 驯顺的
+
+== 初八：#link("https://wikimore.private.coffee/wiki/en/wiki/Voltairine_de_Cleyre")[_Voltairine de Cleyre_ (Wikipedia)]
+/ prosecution: The entire process of trying to convict someone of a crime is known as the prosecution, and if convicted, you may face prosecution. Any words with the root prosecute are connected to trying to prove someone’s guilt.
+/ implicate: The verb implicate means "to connect or involve in something." For example, your cousins might implicate you in the planning of a big party for your grandparents.
+/ sap: To sap something is to drain or deplete something over time. If you sap a maple tree, you drain the liquid inside it to make maple syrup. But if you sap a person of strength, you've rendered him defenseless.
+/ gossip: Gossip is conversation that's light, informal, and usually about other people's business. It can be fun to gossip about others, but no one likes it when they're the subject of gossip.
+
+== 十四：越南
+=== 1.《东南亚近现代史（下）》
+主要看越南，内容不多，史料更少（都是国内 90 年代的）。得换书。
+
+=== 2. K. W. TAYLOR - _A HISTORY OF THE VIETNAMESE_
+/ bejewal: decorate. You could make your plain tote bag more exciting if you bejewel it with shiny sequins and beads.
+/ vernacular: Vernacular describes everyday language, including slang, that's used by the people.
+/ morass: 泥潭
+/ toponym: topo-nym, 地名
+/ envoy: An envoy is someone sent out as a messenger to represent another person or group, such as a country or business.
+/ auspicious: auguring favorable circumstances and good luck, eg "an auspicious beginning for the campaign"
+/ erudite: `/ˌɛrəˈdaɪt/` If you call someone erudite, that means they show great learning. After you've earned your second Ph.D., you will be truly erudite.
+
+== 十五：ENGLISH COLLOCATIONS IN USE
+/ secluded: A secluded place is isolated, away from other people. It's quiet, and there's not a lot going on.
+/ spacious: If you’re feeling cramped in your current residence, you’re probably longing for a more spacious place to live. Spacious is an adjective that means "roomy" or "having plenty of room."
+/ mitigate: Choose the verb mitigate when something lessens the unpleasantness of a situation. You can mitigate your parents' anger by telling them you were late to dinner because you were helping your elderly neighbor.
+/ inclement: Inclement usually refers to severe or harsh weather that is cold and wet.
+/ delirious: If you're delirious you're uncontrollably excited or a bit crazy. Usually *deliriously happy*
+/ adjourn: To adjourn is to close a session of something, like at court. People also adjourn when they go to bed. *adjourn the meeting*
+/ to and fro: 来回, *walk to and fro*
+/ spate: A spate is a large number. *a spate of thefts*
+/ barrage: 一连串 A barrage is something that comes quickly and heavily — as an attack of bullets or artillery, or a fast spray of words. *a barrage of questions*
+/ mount: To mount is to climb up something, like a ladder, or get on the back of something, like a horse. *mounting concern*
+
+== 十九：ENGLISH COLLOCATIONS IN USE
+/ slip: 滑动、下滑
+/ howl: To howl is to make a long, sad, crying sound. *winds howls*
+/ chatter: 闲谈, *teeth chatter* 牙齿打颤
+/ withstand: 承受, *withstand pressure*
+/ pass up: 放弃（好东西）, *pass up a chance*
+/ grenade: 手雷
+/ propel: 推进, When you hear the verb propel, imagine the propeller on an airplane
+/ a snippet of information: a little bits of info
+/ a stroke of luck: 好运, eg. By a stroke of luck I found my keys in the rubbish bin! 
+/ escalate: If an argument between you and your brother progresses from mean looks to a fist fight, you could say that the tension between the two of you escalated.
+
+== 廿六：新广东、果洛
+=== 1. #link("https://www.ncpssd.org/Literature/secure/articleinfo?params=NGQ3R3llL1Evc3h3U3NLVE1ZWnNOeUt6UE83c0ZDSzU4bHcwa09Nc3hHZEhXT0F0U1ZtNTJacVBFdThEejcraEh1UVBSZXZoam9jOHFMejdGeEU1bnNiNzMwejZndURuZzF3MXNUL0lIdXNhUnFHVTk1SEFqUERPSDBoblVxY0w&pageUrl=https%253A%252F%252Fwww.ncpssd.org%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253DKElLVEU9Iuasp%252BammOeUsiIgT1IgSUtQWVRFPSLmrKfmppjnlLIiICBPUiBJS1NUPSLmrKfmppjnlLIiIE9SIElLRVQ9Iuasp%252BammOeUsiIgT1IgSUtTRT0i5qyn5qaY55SyIik%253D%2526searchname%253D6aKY5ZCNL%252BWFs%252BmUruivjT0i5qyn5qaY55SyIg%253D%253D%2526nav%253D0%2526ajaxKeys%253D5qyn5qaY55Sy")[《新广东》：从政治到文学]
+康有为和梁启超虽是师徒，但政治意图并非完全一致。晚清的政治风气仍需进一步研究，论文中常引用《康有为与保皇会》一书。
+
+=== 2. Bianca Horlemann - _Victims of Modernization? Struggles between the goloks and the Muslim Ma Warlords in Qinghai, 1917–1942_
+
+/ pastoralist: 牧民
+/ restitution: Remember the time you knocked the ball out of the park, scoring a home run but breaking a house's window in the process? You had to make restitution for the broken window, paying for its replacement.
+/ hostage: A hostage is a prisoner taken by kidnappers and held until the kidnappers get whatever they’re asking for.
+/ garrison: A garrison most often refers to a military outpost where troops are stationed to provide protection to an area.
+/ blatant: Something blatant is very obvious and offensive. Don't get caught in a blatant lie, because you won't be able to weasel your way out of it.
+
+== 廿七：ENGLISH COLLOCATIONS IN USE
+/ stage: plan, organize, and carry out, *stage a protest*
+/ rustle: A rustle can be the dry sounds made by papers rubbing together or leaves crackling. Also means make a meal quickly: *rustle up a meal*
+/ numb: /nəm/ Numb is an adjective that describes a lack of sensation. After skiing all day, your toes might be numb from the cold. You'd feel numb for hours after hearing that your favorite band broke up. *boring = mind-numbing*.
+
+== 廿八：ENGLISH COLLOCATIONS IN USE
+/ gush: On hot summer days, city kids will sometimes open a fire hydrant and let the water gush into the street.
+/ apron: 围裙
+/ keep sbd on toes: makes sbd concentrated, eg Having three sons under the age of five *keeps* Jana on *her toes*.
+/ have an eye for: 有眼光
+/ goes hand in hand with: happens at the same time or as a result of, eg Unemployment *goes hand in hand with* social unrest.
+/ disseminate: Disseminate means to spread information, knowledge, opinions widely. Semin- derives from the Latin word for seed; the idea with disseminate is that information travels like seeds sown by a farmer. *disseminate information = spreading information to a lot of people*
+/ divulge: /daɪˈvʌldʒ/ reveal something serect known, eg. divulge the sources
+/ profess: To profess is to declare something, often insincerely.
+/ debacle: Use debacle to refer to a fiasco, disaster, or great failure. If several dogs run onto the field during the big baseball game, tripping players and chewing up the bases, you can call the whole event a debacle.
+/ compassion: sympathy
+
+some collocations in the form of "adverb + adjective" where the adverb strengthens or softens the adjective:
+- spotlessly clean
+- balantly obvious
+- wildy inaccurate
+- loosely based on
+- faintly ridiculous/absurd
+- absolutely delighted
+
+some collocations with "say":
+- it goes without saying that
+- talk nonsense / a lot of sense
+- profess ignorance = claim that sbd does not know something
+- notify the police
+- protest sbd's innoncence (= insist sbd is not guilty, here "protest" pronounces as pro-test)
+- give the message ... across = convey the idea
+- break the news = tell sbd the news
+- give an account of, 说明情况、叙述过程
+
+=== 2. #link("https://wiki.owo.si/wiki/Agvan_Dorzhiev?lang=en")[_Agvan Dorzhiev_ (Wikipedia)]
+/ deprive: Deprive means to keep from having, *deprive sbd of sth*, eg. clergy was deprived of its power
+
+== 廿九：ENGLISH COLLOCATIONS IN USE
+/ dementia: If your grandfather suffers from dementia, he has a brain disorder that's causing him to gradually lose his memory and become disoriented and confused. 痴呆症
+/ solitude: Solitude is the state of being alone. You might crave solitude after spending the holidays with your big, loud family — you want nothing more than to get away from everyone for a little while.
+
+== 三十：ENGLISH COLLOCATIONS IN USE
+/ imitate: When you imitate someone, you copy them. 模仿
+/ filthy: very dirty
+/ bounce: Bounce is a word for an up and down movement or recovery — like a ball's bounce on the pavement or the stock market's rise after a crash. 反弹
+/ pedestrian: A pedestrian is someone traveling by foot.
+/ sewage: sounds like "sui-dzh" The waste water that flows down drains and through pipes from toilets and sinks is called sewage. 废水
+/ lumber: 木材
+/ counterfeit: A counterfeit is a fake or a forgery.
+/ freight: 货品、运货
+/ weave: Weaving involves lacing strips of fabric, string, or some other material together to make something. 编织
+/ ornament: An ornament is a decoration. You can also ornament something by making it more beautiful or festive. *Clearness ornaments profound thoughts*
+/ exquisite: Use exquisite to mean finely or delicately made or done. When you say someone has exquisite taste, you mean that they are able to make fine distinctions.
+/ stain: A stain is a mark or discoloration, and to stain something is to mark it with dirt or color it, either deliberately or accidentally. 污渍
+/ slender: Something slender is slight, or skinny.
+
