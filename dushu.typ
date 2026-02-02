@@ -20,6 +20,9 @@
   "Noto Serif CJK SC" // 中文字体
 ), lang: "zh", region: "cn")
 
+// 对中英文设置不同样式的引号
+#show smartquote: set text(font: "libertinus serif") 
+
 // Paragraph indent
 #set par(first-line-indent: (amount: 2em, all: true))
 
@@ -33,7 +36,6 @@
 #show outline.entry.where(
   level: 1
 ): set text(weight: "bold", size: 15pt)
-
 
 ////////////////////////////////////////////////////////////////////
 ////////////////////////////  Title  ///////////////////////////////
@@ -57,7 +59,7 @@
 ///////////////////////////////////////////////////////////////////
 ////////////////////////  Table of Contents  //////////////////////
 ///////////////////////////////////////////////////////////////////
-#outline()
+#outline(depth: 3)
 #pagebreak()
 
 = 前言
@@ -93,7 +95,7 @@
 / crush:
 / haughty:
 / hasten: accelerate, or hurry in doing something
-/ capitulate:
+/ capitulate: To capitulate means to give in to something. If your parents refuse to raise your allowance, you might try to argue until they capitulate. 让步
 / prefecture:
 / riot: 暴乱
 / flee: 逃跑
@@ -1099,7 +1101,7 @@ some collocations with "say":
 - break the news = tell sbd the news
 - give an account of, 说明情况、叙述过程
 
-=== 2. #link("https://wiki.owo.si/wiki/Agvan_Dorzhiev?lang=en")[_Agvan Dorzhiev_ (Wikipedia)]
+=== 2. #link("https://wiki.owo.si/wiki/Agvan_Dorzhiev?lang=en")[_Agvan Dorzhiev_ (on Wikipedia)]
 / deprive: Deprive means to keep from having, *deprive sbd of sth*, eg. clergy was deprived of its power
 
 == 廿九：ENGLISH COLLOCATIONS IN USE
@@ -1120,4 +1122,217 @@ some collocations with "say":
 / exquisite: Use exquisite to mean finely or delicately made or done. When you say someone has exquisite taste, you mean that they are able to make fine distinctions.
 / stain: A stain is a mark or discoloration, and to stain something is to mark it with dirt or color it, either deliberately or accidentally. 污渍
 / slender: Something slender is slight, or skinny.
+
+= 腊月
+== 初一：中国边疆、英语
+=== 1. #link("https://wiki.owo.si/wiki/Mongolian_Buddhism?lang=en")[_Mongolian Buddhism_ (on Wikipedia)]
+/ penetrate: To penetrate is to force into or pierce through. If the fog is thick as pea soup, your flashlight won’t penetrate it. If you stubbornly ignore good advice, people might say nothing can penetrate that thick skull of yours. 穿透
+/ pierce: If something pokes your hand, you will probably look at your hand to see if it pierced the skin. To pierce means to go right through, especially with something sharp.
+/ concur: To concur is to agree or approve of something. If someone says something you agree with, you can say "I concur!"
+
+=== 2. 剑桥雅思真题 18
+/ debris: 碎屑
+/ shard: broken pieces 碎屑
+/ pest: 害虫
+/ vent: When you vent, you let something out, whether it's hot air or your feelings. 发泄、泄露
+/ abide: Abide means "to be able to live with or put up with." If you can't abide with something, it means you can't stand it. If you can abide it, it means you can live with it. *abide by = obey*, eg. You must abide by the rules.
+/ alleviate: sounds like "ali-vi-ate", Do all these words make your head ache? If so, take an aspirin to alleviate, or relieve, your pain.
+/ taxonomy: 分类学
+/ versatile: To describe a person or thing that can adapt to do many things or serve many functions, consider the adjective versatile. 多功能
+/ steer: In defining steer, I would steer clear of complicated examples and just say: to steer is to control which direction one is going. eg. He *steered* the car carefully through the narrow street.
+/ sentiment: a view or opinion, but it can also mean an emotion.
+
+== 大寒：剑桥雅思真题 18
+/ outskirts: 郊区
+/ provision: A provision is a store or supply of something, like food or clothing. This noun can also describe the planning you do for "when something happens." eg. *The provision of clean water is essential*, and *The city has no provision for natural disasters*.
+/ haze: 霾
+/ mortality: One of the most difficult things for a child is experiencing the death of a beloved pet; it's a hard lesson in mortality. *Mortality rate = 死亡率*
+/ respiratory: The word respiratory is an adjective describing anything related to respiration: how we breathe.
+/ graze: Cows graze on grass, and people graze on snacks and finger foods. Graze can also mean to scrape, like when you graze your elbow after falling off your bike. 吃草；擦伤
+
+== 初三：剑桥雅思真题 18
+/ waist: 腰
+/ detract: 减损，*detract from = 贬低*
+
+== 初四：#link("https://en.wikipedia.org/wiki/Manchukuo")[_Manchukuo_ (Wikipedia)]
+/ waver: To waver is to move back and forth, like when you waver, one minute thinking you'll stay home, planning to go meet your friends the next, until you finally make your decision. 动摇
+/ ostensibly: Ostensibly is an adverb you use to talk about something that looks one way, but underneath there's the hint of a different motivation for that action. eg. 伪满洲国 was ostensibly founded as a republic. Also noun *ostensible*.
+/ regent: 摄政王
+
+== 初五：#link("https://en.wikipedia.org/wiki/Manchukuo")[_Manchukuo_ (Wikipedia)]
+/ conceit: If you’re always boasting and can’t stop talking about yourself, you have that character flaw known as conceit. Your friends — if you have any — may also complain about your arrogance, vanity, and egotism.
+/ veto: A veto is a no vote that blocks a decision. The President can veto some bills that pass his desk. 否决、否决票
+
+== 初六：伪满洲国
+=== 1. #link("https://en.wikipedia.org/wiki/Manchukuo")[_Manchukuo_ (Wikipedia)]
+/ shun: 避开, eg. He was shunned by his classmates after the incident.
+/ deplete: /dɪˈplit/ To deplete is to use up or consume a limited resource. Visiting relatives might deplete your refrigerator of food, or a pestering friend might deplete your patience.
+
+=== 2. #link("https://en.wikipedia.org/wiki/Yoshiko_Yamaguchi")[李香兰（英文维基）]
+/ aversion: If you have an aversion to something, you have an intense dislike for it.
+
+== 初八：藏区和雅思
+=== 1. 剑桥雅思真题 18
+/ disposable: 一次性的、可支配的, eg. "disposable chopsticks 筷子", "disposable income 可支配收入"
+/ congestion: When a driver complains about congestion, she's talking about the cars that are backed up on the highway. When your sneezing friend complains about congestion, he's talking about his stuffed-up nose.
+
+=== 2. #link("https://en.wikipedia.org/wiki/Kalimpong")[_Kalimpong_ (Wikipedia)]
+/ annexation: 吞并
+/ confiscate: To confiscate means to take away temporarily for security or legal reasons. It implies an act by an authority upon one of less power. If you use your cell phone in class, the teacher might confiscate it for the day. 没收
+/ oust: A teacher may oust you from class if you are being disruptive, or you might oust your class president from her position if you beat her in the election. To oust is to “expel,” “kick out,” or “remove and replace.”
+
+=== 3. #link("https://en.wikipedia.org/wiki/Ngapoi_Ngawang_Jigme")[_Ngapoi Ngawang Jigme_ (Wikipedia)]
+/ ratify: To ratify a treaty or contract is to officially approve it by signing or voting for it. You and your brothers and sisters might devise a plan for a family vacation to Disney World, but it would need to be ratified by your parents.
+
+=== 4. #link("https://en.wikipedia.org/wiki/Pandatsang_Rapga")[_Pandatsang Rapga_ (Wikipedia)]
+康区竟然有革命人……
+
+=== 4. #link("https://hefengxian.github.io/my-ielts/#/vocabulary")[雅思词汇表]
+/ setback: A setback is an event that makes you lose progress or keeps you from gaining ground. 挫折
+/ adversity: When circumstances or situations work against you, you face adversity. Refugees from war-torn countries encounter terrible adversity. 困境（长时间的困难）
+/ dispose: If you dispose of something, you get rid of it. Don't want that sweatshirt with the clown's face on it? Give it away, throw it out, even sell it — these are all ways to dispose of that awful shirt.
+/ utterance: An utterance is a bit of spoken language. It could be anything from "Ugh!" to a full sentence.
+/ contention: a competition that only one side can win, eg. "the teams were in fierce contention for first place"
+/ imminent: Something that is imminent is just about to happen: if you light a firecracker and then stick it down your pants, a very bad situation is imminent.
+/ sanitary: When something's sanitary, it's extremely clean. It's important for hospitals to be sanitary.
+/ segregate: To separate people by race or religion is to segregate them. In general, the word segregate means to separate one type of thing from another.
+/ pessimistic: 悲观的
+/ hospitable: 好客的
+/ furious: fucking angry
+/ stir up: 激起、引发, eg. "His words stirred up my hatred."
+
+== 初九：中国边疆、果洛
+=== 1. 林孝庭 - _Modern China's Ethnic Frontiers_
+/ concert: also a verb, means "to work together in harmony", eg. "I argued that modern China's Tibetan frontier was neither the subject of *concerted* aggression by a centralized and indoctrinated Chinese Nationalist government"
+/ indoctrinate: 灌输, If you indoctrinate someone, you teach that person a one-sided view of something and ignore or dismiss opinions that don’t agree with your view. Cults always indoctrinates its followers
+/ grandstand: 体育场看台、哗众取宠, eg. "rhetorical grandstanding = 言辞上的哗众取宠"
+/ delineate: to delineate is to outline and define something in detail or trace the shape of it. 刻画
+/ divisive: adjective of "divide"
+/ resort: The noun resort means "turning to something or someone else for assistance." You tried everything to figure out your math homework on your own, so asking your dad for help was your last resort. 诉诸
+/ perennial: Perennial typically describes things that are permanent, constant, or repeated. If you fight with your parents every year over whether they really must invite your annoying cousins for Thanksgiving, you could call that a perennial conflict.
+/ scrutinize: If you want to examine something closely and go over every single detail, then you should scrutinize it. Like the way your mom probably assesses your outfit before you leave the house for school.
+/ animosity: 憎恶
+/ ostracize: If you banish someone or ignore him, you ostracize him. 排斥
+
+=== 2. 何乐文（Bianca Horlemann）- _Victims of Modernization? Struggles between the Goloks and the Muslim Ma Warlords in Qinghai, 1917–1942_
+/ cede: To cede is to give up or surrender land, position, or authority.
+
+很好的文章，梳理了果洛和马家军阀之间的几次冲突：
+
+==== 第一次冲突（1917 -- 1918）
+传统观点认为，马家军阀在阿尼玛卿山附近开矿，侮辱了果洛人心目中的圣山，因此产生冲突。
+
+何乐文则在此基础上提出，马家军阀乃是因为希望控制贸易重镇玉树，才求直接控制无人管辖的果洛地区。
+
+何乐文的理由：1913 年，四川宣布“玉树二十五族”#footnote[见周希武《玉树调查记》，青海人民出版社，2022]归属四川管辖，而此前玉树一直归甘肃西宁管辖，这让马家军阀大为恼火，最终，在马家军阀的强烈反对下，袁世凯政府确定玉树仍归甘肃。即使这样，马家军阀仍不放心，希望能在西宁和玉树之间修筑公路，以便进一步管理玉树，而果洛部落恰巧就在西宁玉树的中间。而为修路、运兵等事务，马家军阀需要乌拉，因此强征素不服管教的果洛人做乌拉，这才是冲突的根源。
+
+==== 第二次冲突（1920 -- 1921）
+1920 年，马家军阀派往玉树的一支补给队被果洛人洗劫，这让希望直接控制玉树的马家军阀更为不安，为此，他们决定打服果洛人。
+
+果洛对这次进攻作了防守，但是没能防到玉树方向进军的马家部队，因此惨败。
+
+根据《青海文史资料选辑（第 1 辑）》中康万庆#footnote[何乐文的文章称他是果洛康塞（Khangsar）部落头人，而《青海文史资料选辑（第 1 辑）》称他是康干部落头人。另外，他还是黄正清的妹夫。]的遗稿《马麒、马步芳屠杀和掠夺果洛牧民的纪实》，玉树方向的马家军胁迫土人进攻果洛。
+
+1922 年，勒德被派去西宁赎回人质，结果被娶成小妾。
+
+==== 第三次冲突（1926）
+马家军和拉卜楞嘉木祥的阿洛家族有深刻矛盾。1924 年，阿洛家族一部分人去找九世班禅寻求调停，另一部分人前去寻找甘肃省长陆洪涛寻求调停，但是都失败了：阿洛家族最终被安置在黑错。
+
+阿洛家族不甘就此远走他乡，便四处游说，希望得到藏族部落的支持。1925 年春夏，愿意帮助阿洛家族的藏族部落袭击了马家军，然而依然失败，甚至有人叛变。
+
+1925 年，阿洛家族继续寻求帮助，找到了冯玉祥手下的刘郁芬，经宣侠父安排的几场协商以后，马家军同意从拉卜楞撤军，并把拉卜楞交给甘肃政府管理。
+
+此后，果洛人为寻求帮助，派了一些部落头人前去拉萨，这些头人获得了拉萨政府的册封。
+
+==== 第四次冲突（1932 -- 1933）
+马家军手下的官员韩进禄#footnote[《青海文史资料选辑（第 1 辑）》中有此人的文章《1941 年马步芳镇压果洛和玉树部落的回忆》。]屠光了洋玉部族。
+
+==== 第五次冲突（1935 -- 1938）
+马家军以红军长征，需要马家驻军保卫安全为借口，向果洛地区派遣部队横征暴敛，然后又马上召回西宁。1936 年，马步芳派出喇平福前去果洛抵御红军，但据说喇平福对果洛人剥削至极，最终被果洛人砍头。此后马步芳为报仇，派遣部队对果洛人实行无差别屠杀。
+
+有些果洛人逃难到拉卜楞，黄正清建议果洛人去找蒙藏委员会的帮助。果洛人先到成都四川政府求助，感觉无望便进一步去找九世班禅，班禅帮他们争取到了和蒋介石谈话的机会。然而蒋介石对他们没有什么兴趣。
+
+何乐文还提到，黄正清和九世班禅都具备进步思想，希望能做出努力使康区现代化，但是无甚效果。
+
+==== 第六次冲突（1941）
+果洛人抗税，马步芳又派韩进禄进攻。
+
+记录一下何乐文所引的中文书目（如有更新修订版，则直接替换，不予说明）：
+  - 邢海宁，《果洛藏族社会》，中国藏学出版社，1994
+  - 《青海三马》，中国文史出版社，2016
+  - 《果洛藏族自治州概况》，青海人民出版社，1984
+  - 黎宗华、李延忔《安多藏族史略》，青海人民出版社，1992
+  - 《青海省志》，青海人民出版社，2001
+  - 催永红《青海通史》，青海人民出版社，1999
+  - 杨效平《马步芳家族的兴衰》，青海人民出版社，2007
+  - 王昱、聪吉《青海简史》，青海人民出版社，1992
+  - 杨恩洪，《藏族妇女口述史》，中国藏学出版社，2006
+  - 陈秉渊，《马步芳家族统治青海四十年》，青海人民出版社，2007
+  - 《果洛四十年》，青海人民出版社，1993
+  - 马鹤天，《甘青藏边区考察记》， 中国国际广播出版社，2016
+  - 宣侠父，《西北远征记》，甘肃人民出版社，2002
+  - 师纶，《西北马家军阀史》，2006
+  - 《康藏纠纷档案选编》，中国藏学出版社，2000
+  - 范长江#footnote[范长江是第一个访问延安红区和毛泽东主席的中国新闻记者。]，《中国的西北角（勘注增补本）》，北京出版社，2025
+  - 《甘肃文史资料选辑（第 30 辑）：黄正清与五世嘉木样》，1989
+  - 《青海文史资料选辑》：第 1、第 2、第 4、第 9
+
+== 初十：#link("https://yjsglxt.scau.edu.cn/open/Wechat/SsZsZyml/TutorInfo.aspx?dsbh=YinXiaoPing92")[殷小平]《近二十年来中国景教研究述评》
+著者是《唐代景教再研究（修订本）》编者，其书所载论文均出自林悟殊先生之手，其师蔡鸿生则是一代史学大家，师从陈寅恪。为纪念蔡鸿生先生九十诞辰的文集《脱俗求真》中，荣新江、茅海建等人均有供稿，可见此人史学功力！
+
+就文本而言，看不懂，但是注释中的一些书目看起来似乎很不错。文中提到唐代“三夷教”（即祆教、景教、摩尼教）的概念，看起来很有趣。
+
+另外，本文还提到了2000 年出土的大秦景教经幢，现藏洛阳博物馆，到时候一定去看看。
+
+== 十一：剑桥雅思 20
+/ ferry: A ferry is a boat that carries people, cars, and cargo back and forth across a body of water. 客船、渡轮
+/ bustle: 热闹、忙碌, eg. "I love the bustle of the morning market in my hometown", "Mom is bustling around the kitchen"
+/ barge: 货船
+/ discharge: To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it.
+
+== 十三：#link("https://en.wikipedia.org/wiki/Phuntsok_Wangyal")[Phuntsok Wangyal]
+/ wage: Also a noun, if a person, group, or country wages a campaign or a war, they start it and continue it over a period of time.
+/ behest: Behest is an authoritative command or request. If your boss or principal asks to see you, you go to their office at their behest.
+/ viable: When something is viable, it has the ability to grow or function properly. A viable seed can develop into a plant, while a viable company has the resources to succeed.
+/ preamble: A preamble is a brief introduction to a speech.
+
+Melvyn Goldstein 就此人写过一部书：_A Tibetan Revolutionary_。
+
+== 十四：剑桥雅思 20
+/ retail: If you buy a pair of jeans at your neighborhood Chique Boutique, you’re buying retail, but if you go to Vietnam and buy a boatload of jeans directly from the manufacturer, you’re buying wholesale, which is the opposite of retail. 零售
+/ aggravate: make something worse, eg. "Stress and lack of sleep can aggravate the situation."
+/ soar: To soar means more than just to fly; it means to rise swiftly, to feel the wind slipping below you as you ride it higher, higher, higher. Flying is just moving through the air. Soaring, though, suggests exhilaration, even joy. 高飞、爽飞、暴涨, eg. "the dollar soared against the yen"
+/ staple: 主食, *daliy staple*
+/ ethical: 道德的, *ethical concerns 道德担忧*
+/ surge: A surge is a sudden strong swelling, like a tsunami wave that engulfs the land. 激增、猛涨, *a surge in demand 需求的激增*
+/ raise a profile: 提升知名度
+
+== 十五：辛亥蒙古独立
+=== 1. #link("https://en.wikipedia.org/wiki/Frans_August_Larson")[_Frans August Larson_ (Wikipedia)]
+/ zeal: Zeal is dedication or enthusiasm for something. If you have zeal, you're willing, energized, and motivated. 热忱
+/ whip: A whip is a cord or piece of leather used for hitting an animal or a person, and to whip something or someone is to strike them with a whip. 鞭打
+/ bandit: A bandit is a robber, thief.
+/ rife: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. eg. "The area was rife with bandits"
+/ detriment: 损害, *detriment of sth*, eg. "These difficulties have been overcome without detriment to performance"
+/ lucrative: Use lucrative to refer to a business or investment that makes money.
+/ remnant: 剩余物
+
+Larson，瑞典人，早年跑到张家口搞贸易，在那学了许多蒙古语，和诸蒙古王公有深交，后来甚至被哲布尊丹巴封为公爵。晚年著有 _Larson, Duke of Mogolia_ 一书，目前已有张建军先生的译本《蒙古公爵拉尔森》
+
+=== 2. YOUNG MONGOLS AND VIGILANTES IN INNER MONGOLIA'S INTERREGNUM DECADES, 1911-1931
+
+=== 3. 裴霏霏《杭达多尔济和车林齐密特研究》
+参考文献有价值，钞录于此：
+- 《国外中国近代史研究》中关于蒙古的文章，
+- 内蒙古近代史研究所《内蒙古近代史译丛》
+- 《蒙古人民共和国通史》，科学出版社，1958
+- Larson 的回忆录
+- 中见立夫（Tatsuo Nakami）的文章
+- 廓索惟慈《库伦条约始末》，中华书局，1932
+
+
+=== 4. 剑桥雅思 20
+/ hamper: Anything that hampers slows progress or makes it difficult to do something. You might think that the presence of your parents hampers your ability to look cool. 妨碍
+/ hygienic: If something is hygienic it is good for your health or promotes healthy habits. Mothers are always spouting hygienic messages like "Wash your hands!" or "Brush your teeth!" 卫生的
+/ metabolic rate: 新陈代谢率
 
