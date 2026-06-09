@@ -3,6 +3,7 @@
 ////////////////////////////////////////////////////////////////////
 #import "@preview/fletcher:0.5.3" as fletcher: diagram, node, edge
 #import "@preview/conjak:0.2.3"
+#import "@preview/meander:0.4.3"
 #show link: set text(red)
 
 
@@ -11,7 +12,8 @@
 
 #show quote: block.with(  // code block
   fill: luma(220),  // background color
-  inset: 9pt
+  inset: 9pt,
+  stroke: (left: 4pt),
 )  // distance between text and the edge
 
 // 字体
@@ -31,6 +33,9 @@
 
 // Set the separator between term list and content
 #set terms(separator: [*:* ])
+
+// Set indent for list
+#set list(indent: 2em)
 
 // Set level 1 heading in toc bold
 #show outline.entry.where(
@@ -562,7 +567,200 @@ Shulman 曾就如何用意象理論施行力迫留下文字，見此 Math Overfl
 
 南京为了在西康建立实力，曾以康人诺那呼图克图#footnote[诺那呼图克图本人曾与民七事变中支持川军，被拉萨逮捕后越狱赴内地，其政治野心可见一斑。]为首，派遣附有士兵的一支小队赴西康。这支队伍与刘文辉的武装逐渐发生武力冲突，终于失败。南京派遣的诺那呼图克图因有与拉萨对峙的前科，也让南京与拉萨来之不易的“蜜月期”蒙上了阴影。
 
-== 廿五：《三国前夜》
+== 廿五：《三国前夜》、余切空间的代数定义
+=== 1. 《三国前夜》
 窦武同陈蕃在桓帝死后密谋扫荡宦官，此前窦太后已经下令处死两名颇有势力的宦官，为窦武陈蕃打了一剂强心针。然而窦太后需要临朝则绝不可能离开宦官，故而她的思想从来和窦陈二人不同，可惜两位名士对此毫无察觉，也许这就是祸根所在。除宦事泄后，阉人抢先一步发动政变，在一片混乱中收缴窦太后的印玺伪造诏书，“凉州三明”的张奂误信伪诏，带兵攻击窦武的部队，这场悲剧以窦武自杀、陈蕃被捕为结果。
 
 此后，以候览、曹节为首的宦官集团疯狂地报复士大夫，并以张俭事件为借口发动了空前的大清洗，是为第二次党锢之祸。
+
+=== 2. Joachim Wehler - #link("https://www.mathematik.uni-muenchen.de/~wehler/20190530_RiemannSurfacesScript.pdf")[_Riemann Surfaces_]
+设 $X$ 是 Riemann 面且 $p in X$ 是一个点，则熟知该点处的光滑函数芽 $cal(E)_p$ 是局部环，设其极大理想为 $frak(m_(cal(E),p))$，则著者用这些代数信息定义了一种“余切空间”如下：
+
+定义 $X$ 于 $p$ 处的余切空间为
+$ T^1_p := frak(m_(cal(E), p)) \/ frak(m_(cal(E), p)^2). $
+
+$T^1_p$ 具有 $cal(E)_p \/ frak(m_(cal(E), p)) tilde.eq CC$ 上的典范向量空间结构，因此的确是某种“空间”。
+
+根据知乎用户 ZCC 的#link("https://zhuanlan.zhihu.com/p/537069027")[笔记]，代数簇的切空间定义为 $(frak(m_(cal(E), p)) \/ frak(m^2_(cal(E), p)))$ 的对偶，那么显然这玩意儿本身应该就是切空间的对偶，即余切空间。
+
+同时，#link("https://mathweb.ucsd.edu/~jmckerna/Teaching/13-14/Spring/203C/l_3.pdf")[这份文档]的 Definition 3.1 也是如 ZCC 一样定义代数簇的切空间。按这种方式定义出来的切空间，称为 *Zariski 切空间*。
+
+Wedhorn 在 _Manifolds, Sheaves and Cohomology_ 的 Remark 5.9 中指出了导子集合 $"Der"_k (A, k)$ 同 Zariski 切空间 $(frak(m)\/frak(m)^2)^or$ 之间的同构，同时，解析定义的切空间 $T_p (M)$ 可通过单射视为 $"Der"_KK (cal(O)_(M,p), KK)$ 的子空间。
+
+如果流形是光滑，或解析，或全纯的，则解析切空间 $T_p M$ 的维数与 $frak(m) \/ frak(m)^2$ 相同，故而解析切空间、导子集合以及 Zariski 切空间三者同构，证明见 Wedhorn 书之 Proposition 5.11。
+
+除了已经指出的材料，下面的文章或许也有用处：
+- #link("https://web.ma.utexas.edu/users/gdavtor/notes/cxg.pdf")[Complex Geomtry Notes (Prof. Bernd Siebert)],
+- #link("http://maths.nju.edu.cn/~yshi/complex_geometry.pdf")[石亚龙教授的复几何讲义]。
+
+== 廿八：《後漢書 · 桓帝紀》
+每年每月幾乎都有災異，不是地震就是日食，堪稱災異大全😆。
+
+正文甚無趣，蓋帝王本紀用意不在記事，而在紀年。然諸記錄性文字中，畢竟有一二可玩處，譬如延熹九年九月“大秦國王遣使奉獻。”，註曰“時國王安敦獻象牙、犀角、瑇瑁等。”，此處大秦當然是羅馬，而所謂國王安敦指馬可·奧勒留·*安東尼努斯*·奧古斯都，即熟知的哲學皇帝奧勒留。
+
+大漢與羅馬的外交，被史書記錄的這還是第一次！
+
+= 四月
+== 初一：《後漢書 · 鄭玄列傳》
+沒啥內容，誡子書可以一讀，寫得文雅。
+
+== 初四：Ioan-Aurel Pop《罗马尼亚现代史》，辽宁人民出版社
+很薄的罗马尼亚现代史，可以速通。
+
+中古时期，罗马尼亚人建立了三个所谓公国：Transyvalnia、Wallachia、Moldavia，其中第一个公国被哈布斯堡吸收，后两个被奥斯曼吸收。
+
+1848 年欧洲革命让被压迫的罗马尼亚人对现状更加不满，这种民族热情终于在 1859 年结出果实：Wallachia 和 Moldavia 合并，形成联合公国。这是罗马尼亚历史上所谓的“小统一”（Little Union）。联合公国成立后由大公 Alexandru Ioan Cuza 出任国家元首，Cuza 上台后施行了一系列激进改革，严重触犯到教士、地主、贵族的利益，国内的不满者形成了所谓“怪异联盟”（Monstrous Coaliation）逼迫 Cuza 下台，这位传奇的大公终于在 1866 年离开了政权宝座。
+
+哈布斯堡与奥斯曼都不希望看到强大的罗马尼亚，为了防止这两个帝国对本国的进一步剥削，罗马尼亚人请来德意志人 Carol 一世作为新大公，希望凭借他的欧洲血统让公国在列强之间左右逢源，而这位新人也确实做到了。公国深度参与了俄土战争，此后 Carol 一世宣布公国将以战胜国的资格称为王国，不再受奥斯曼的管辖，于是，罗马尼亚王国在 1877 年诞生了。
+
+1914 年 Carol 一世逝世，新的国王 Ferdinand I 上台，他所领导的罗马尼亚王国参加了一战并且胜利，战后作为战胜国成功拿回来丢失已久的 Transyvalnia、被俄国人占领已久的 Bessarabia#footnote[Bessarabia 地区在 Moldavia 东侧，俄国人占领后强行推行俄化政策。二战期间，因罗马尼亚加入轴心国，苏联出兵夺回这块地。而这块地盘正是今天所谓“摩尔多瓦共和国”的前身，但其却与中古的 Moldavia 关系不太大，毕竟 Moldavia 公国的首都 Iasi 如今还在罗马尼亚境内。] 等等地盘，这是所谓“大统一”（Great Union），罗马尼亚民族以 Transyvalnia 回归的那一天作为国庆日（12 月 1 日）。
+
+Carol I 的儿子 Carol II 于 1925 年放弃王位，故而在 1927 年 Carol I 逝世后，Carol II 的儿子 Mihai I 登上王位，不过这位小朋友又在 1930 年被老爹逼迫退位。
+
+Carol II 在 1930 年到 1940 年统治着罗马尼亚王国，但是在这段时间，罗马尼亚王国因战争丢失了很多土地，况且个人能力不强的他已被首相 Antonescu 架空，故而终于在 1940 年被赶跑，大家迎新国王（也是旧国王）Mihai I 回归。
+
+Mihai I 的回归没有什么用，国家政权仍被亲法西斯的 Antonescu 把持。但是 Mihai I 在 1944 年终于通过宫廷惯用的伎俩杀掉 Antonescu，加速了法西斯队伍的瓦解，国王因为此举得到了斯大林的嘉奖。然而红色罗马尼亚在 1947 年成立后驱逐了 Mihai，这位国王在海外漂流许久后终于在 90 年代回归祖国。
+
+以上内容除 Pop 先生的书以外，我还参考了英文维基百科。另外如下两部书似也颇可一看：
+
+- Keith Hitchins - _A Consice History of Romania_;
+- Charles King - _The Moldovans_.
+
+（跑题：所谓的德涅斯特左岸摩尔达维亚共和国其实是俄国人制造出来的斯拉夫“国家”，这个地方本来就和罗马尼亚人没有任何关联，是二战后苏联从乌克兰划出来强行加入摩尔多瓦的。）
+
+== 初八：《三國前夜》
+昨天算是把這本書翻完了，要進一步細讀的地方還有很多，於此姑且記錄一些看起來有意思的參考文獻：
+- 方詩銘《曹操 · 袁紹 · 黃巾》，上海辭書出版社；
+- 胡寶國《漢唐間史學的發展》：史學史；
+- 首都師範大學劉屹教授的作品：
+  - 《敬天與崇道——中古經道教形成的思想史背景》；
+  - 《中國道教史研究入門》；
+- 湯用彤《漢魏兩晉南北朝佛教史》；
+- 衛廣來《漢魏晉皇權嬗代》；
+- 刑義田先生的作品（他也研究畫像石）；
+- 李源澄先生的作品：
+  - 《經學通論、諸子概論》，崇文書局；
+  - 《秦漢史》；巴蜀書社；
+
+== 初九：杜拉斯、倭奴移民
+=== 1. 黄荭《玛格丽特 · 杜拉斯：写作的暗房》
+这是一部杜拉斯传，图片不少，文字也有意思。
+
+在阅读杜拉斯传记以前，我始终坚信杜拉斯经常滥交（或许有些人会称此为自由），这本书印证了我的观点：在德军入侵法国以后，她虽然仍同法律意义上的丈夫一同居住，但却积极地怀上了情人的孩子，而这个情人也有其他情妇，就算是看起来颇为无辜的丈夫，也和一个年轻姑娘有染…… 他们这帮人的混乱程度，实在是超出想象！
+
+德军占领法国以后，杜拉斯的丈夫因为参与“法国抵抗小组”#footnote[日后的法国总统密特朗也在这个小组中。]而被抓进监狱，作为妻子的杜拉斯虽然在一开始十分想念丈夫，但是依然和（不止一个）情人交往……
+
+
+=== 2. #link("https://sidneylu.rice.edu")[Sidney X. Lu] - _Japanese American Migration and the Making of Model Women for Japanese Expansion in Brazil and Manchuria, 1871-1945_
+近乎習作的文章，沒什麼內容，非常簡單的歷史：
+
+倭人爲解決國內人口暴漲問題開始了移民，共三階段：
+
+/ 第一階段: 目的地美國，但是由於赴美的倭妓過多敗壞形象，以及種族歧視，倭國當局被迫于 1924 年排倭法案通過後終止美國方向移民；
+/ 第二階段: 目的地巴西，一切都很好，可是在倭人 1931 年入侵中華民國東三省以後，政府逐漸無法管控倭軍，，此後倭軍直接控制中華民國東三省讓巴西當局非常害怕倭國將以殖民之名實佔領之實，終於在 1930 年代中期推行排倭法案；
+/ 第三階段: 目的地中華民國東三省，當然最終倭豬投降。
+
+文中似乎還提到了一些和妓女有關的東西，看了都很無聊，無非是某某呼籲教育妓女，某某開設女子學校等等。
+
+此文參考的文章 _The "New Paradise": Japanese Emigration to Manchuria in the 1930s and 1940s_ (Sandra Wilson, 1995) 似乎不錯。
+
+== 初十：Joachim Wehler - #link("https://www.mathematik.uni-muenchen.de/~wehler/20190530_RiemannSurfacesScript.pdf")[_Riemann Surfaces_]
+又看了一下有限性定理，看不懂，于是找刘思齐先生的课，惊喜地发现竟然有：#link("https://www.bilibili.com/video/BV1eKUkBFEeL")[黎曼几何合集 11-1-1].
+
+== 十二：托尔斯泰《伊万 · 伊利奇之死》（于大卫译）
+前天看到张伯埙关于这本书的视频#link("https://www.bilibili.com/video/BV1vLmHBBEFw")[《伊凡·伊里奇都死了，可我怎么还活着？》]，颇有共鸣，于是立刻下单，昨日便到，今日取回，花了两小时读完。
+
+我，我到今天似乎依然在按照我自己对人生的理解活着，不按照别人的理解，也不按照社会的规范，只有我自己。希望这一切不会让我后悔，唉。
+
+== 十五：$t$-结构、无穷范畴
+=== 1. #link("https://ncatlab.org/nlab/show/t-structure")[_$t$-structure_ (on nLab)]
+据李文威《代数学方法：卷二》（尽管他的这部书缺乏关于此的详细讨论），$t$-结构似乎是导出范畴中的一种几何结构，具体而言，$t$-结构由导出范畴 $D$ 中的两个集合 $D^(>=0)$ 与 $D^(<=0)$ 构成，这两个集合的交集被称为 $D$ 的心脏（*heart*），从 $t$-结构的公理出发可以证明，心脏一定是 Abel 范畴。
+
+因此，借由 $t$-结构，我们可以使用 Abel 范畴的理论研究导出范畴（导出范畴通常并非 Abel 范畴）。
+
+
+=== 2. Jacob Lurie - #link("https://www.ams.org/notices/200808/tx080800949p.pdf")[_What is ... an $oo$-category ?_]
+简短而清晰的文章，只有两页，却说了很多。
+
+给定一个拓扑空姐 $X$，则其单纯复形 $"Sing" X := {"Sing"_n X}_(n in NN)$ 是一个*单纯集*，并且这个单纯集在弱同伦等价下完全确定了 $X$，也就是说：
+$ "Sing" X tilde.eq "Sing" Y <==> X ~ Y ("weak homotopy equivalent"). $
+
+所以说，如果把这类由拓扑空间生成的单纯集研究清楚，那么同伦论本身也就能研究清楚了。自然，不是所有单纯集都长得像 $"Sing" X$ 一样，所以为了进一步明确形如 $"Sing" X$ 的单纯集究竟具备什么特殊性质，数学家提出了填角性质（*horn-filling*）。关于填角性质具体如何，请看乙巳年九月廿七的记录。
+
+人们用不同名字称呼满足内填角性质（*inner horn-fiiling*）的单纯集：
+- Boardman 和 Vogt 称之为“弱 Kan 复形”（*weak Kan complex*）；
+- Joyal 称之为“准范畴”（*quasi-category*）；
+- Lurie 称之为“无穷范畴”（*$oo$-category*）；
+
+就（毫无理由的）个人喜好而言，我更倾向于 quasi-catgeory 这个名字，关于此，可见如下两份材料：
+
+- Rezk - #link("https://rezk.web.illinois.edu/quasicats.pdf")[_Introduction to Quasicategory_];
+- Haugseng - #link("https://runegha.folk.ntnu.no/naivecat_web.pdf")[_Yet another introduction to $oo$-categories_];
+
+== 十七：#link("https://en.wikipedia.org/wiki/Mikhail_Bulgakov")[_Mikhail Bulgakov_ (on Wikipedia)]
+近来读《大师与玛格丽特》，甚是喜爱，对布尔加科夫产生兴趣，遂读此维基词条。其本人的生平于词条中虽有介绍，但未免简略，幸而其参考文献颇多，其中牛津大学学者 J. A. E. Curtis 关于布尔加科夫的两部传记似乎颇有研读价值：
+  - #link("https://www.amazon.com/Mikhail-Bulgakov-Critical-Lives-Curtis-ebook/dp/B073Q5V3ZC?s=digital-text")[_Mikhail Bulgakov_ (Critical Lives)]，2017 年，193 页：标准传记；
+  - #link("https://www.amazon.com/Manuscripts-Dont-Burn-Mikhail-Bulgakov/dp/1468300709")[_Manuscripts Don't Burn: Mikhail Bulgakov A Life in Letters and Diaries_]，2012 年，320 页：从书信、日记中钩沉得出的传记；
+
+至于俄国学者 Мариэтта Омаровна Чудакова 对布尔加科夫的传记，虽有漢译本（《布尔加科夫传》，中央编译出版社），但质量似是不高，且篇幅过长（884 页），故无甚兴趣。
+
+== 廿三：巫鸿《偶遇》
+近来不想复习，历史书文学书也读够了（前几天刚读完《大师与玛格丽特》），便想找点轻松的书作消遣，逛图书馆恰巧发现这本似乎是艺术作品集的书，图画不少，便借走看了起来。
+
+本以为是充满图画的轻松读物，没想到巫鸿先生要把它做成旁征博引的艺术评论！书中的文字远比图画多，脚注也不少，很多图是古代艺术和现代艺术，这两种艺术都需要深厚的知识储备才好读懂、才好欣赏，我不懂，便只能忽略大部分文字，暴殄天物般匆匆扫过图画，遇见好的，便记录下来，因此只花了一个多小时就翻完了。
+
+下面几个作品我都感到很有趣：
+
+#let richter = figure(
+  image("./pic/10-13.png", width: 55%),
+  caption: [Gerhard Richter - _October 18, 1977_\ 图源：#link("https://www.moma.org/collection/works/79037")[纽约现代艺术博物馆]]
+)
+
+#let kosuth = figure(
+  image("./pic/1and3.png", width: 90%),
+  caption: [Joseph Kosuth - _One and Three Chairs_\ 图源：#link("https://www.moma.org/collection/works/81435")[纽约现代艺术博物馆]]
+)
+
+#let shiota1 = figure(
+  image("./pic/trace1.jpg", width: 80%),
+  caption: [盐田千春 - _Trace of Memory_\ 图源：#link("https://www.chiharu-shiota.com/trace-of-memory-1")[盐田千春官网]]
+)
+
+#let shiota2 = figure(
+  image("./pic/trace2.jpg", width: 80%),
+  caption: [盐田千春 - _Trace of Memory_\ 图源：#link("https://www.chiharu-shiota.com/trace-of-memory-1")[盐田千春官网]]
+)
+
+
+#meander.reflow({
+  import meander: *
+
+  placed(top + left, richter)
+  content[
+    1977 年 10 月 18 号，西德左翼组织“红军旅”（Rote Armee Fraktion）的成员 Andreas Baader、Jan-Carl Raspe 和 Gudrun Ensslin 被发现死于斯图加特监狱，官方宣称均为自杀。
+
+    Andreas Baader 和 Ulrike Meinhof 领导的“红军旅”是一个不择手段的左翼组织，常常暗杀政府高官和社会名流，给西德社会留下了极深刻的印象，也是那段时间社会上最重大的事件之一，因此也是荣获西德政府提名恐怖组织。除了上文提到的几人外，Meinhof 已于 1976 年 5 月 9 号自经狱中。
+
+    Richter 受此重大社会事件的影响，创作了这组组画，而图中的女子正是 Meinhof 本人。
+  ]
+  container()
+})
+
+#kosuth
+
+Joseph Kosuth 的作品“一把和三把椅子”则更为有趣，是我心目中现代艺术的典范。
+
+至于下面的几幅作品（不是画，而是装置艺术），不用看作者名字也知道应该是日本人，毕竟实在太压抑了。
+
+#shiota1
+#shiota2
+
+下面的作品是闵齐伋为《西厢记》作的插图，其中红娘偷听张生和莺莺二人云雨的姿态、琴童又偷看红娘的鬼鬼祟祟，乃至床侧桌子上的花瓶、书卷都别有一番趣味。
+
+#figure(
+  image("./pic/西厢记.jpg", width: 85%),
+  caption: [闵齐伋《西厢记版画》\ 图源：#link("https://mok.kulturelles-erbe-koeln.de/documents/obj/05161815/rba_d012779_13")[科隆艺术博物馆]]
+)
+
+== 廿四：《西哈努克画传》，陕西人民出版社
+西哈努克女儿写的书，大部分都在赞扬她爹，没有任何注释，无法通过此书学习柬埔寨史。
