@@ -8,6 +8,11 @@
 
 // 引用
 #set quote(block: true)
+#show quote: block.with(  // code block
+  fill: luma(220),  // background color
+  inset: 9pt,
+  stroke: (left: 4pt),
+)  // distance between text and the edge
 
 #show quote: block.with(  // code block
   fill: luma(220),  // background color
